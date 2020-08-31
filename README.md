@@ -16,11 +16,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com//fontsource/fontsource/pull/60) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
-2. 💪 Opened PR [#60](https://github.com//fontsource/fontsource/pull/60) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
-3. 🗣 Commented on [#12](https://github.com//izolate/millify/issues/12) in [izolate/millify](https://github.com//izolate/millify)
-4. 🗣 Commented on [#59](https://github.com//fontsource/fontsource/issues/59) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
-5. 🎉 Merged PR [#58](https://github.com//fontsource/fontsource/pull/58) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
+1. 💪 Opened PR [#3](https://github.com//trekhleb/promote-your-next-startup/pull/3) in [trekhleb/promote-your-next-startup](https://github.com//trekhleb/promote-your-next-startup)
+2. 💪 Opened PR [#106](https://github.com//engineerapart/TheRemoteFreelancer/pull/106) in [engineerapart/TheRemoteFreelancer](https://github.com//engineerapart/TheRemoteFreelancer)
+3. 💪 Opened PR [#669](https://github.com//lukasz-madon/awesome-remote-job/pull/669) in [lukasz-madon/awesome-remote-job](https://github.com//lukasz-madon/awesome-remote-job)
+4. 🎉 Merged PR [#60](https://github.com//fontsource/fontsource/pull/60) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
+5. 💪 Opened PR [#60](https://github.com//fontsource/fontsource/pull/60) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
