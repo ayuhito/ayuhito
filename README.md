@@ -16,11 +16,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22431](https://github.com//mui-org/material-ui/pull/22431) in [mui-org/material-ui](https://github.com//mui-org/material-ui)
-2. 💪 Opened PR [#3](https://github.com//trekhleb/promote-your-next-startup/pull/3) in [trekhleb/promote-your-next-startup](https://github.com//trekhleb/promote-your-next-startup)
-3. 💪 Opened PR [#106](https://github.com//engineerapart/TheRemoteFreelancer/pull/106) in [engineerapart/TheRemoteFreelancer](https://github.com//engineerapart/TheRemoteFreelancer)
-4. 💪 Opened PR [#669](https://github.com//lukasz-madon/awesome-remote-job/pull/669) in [lukasz-madon/awesome-remote-job](https://github.com//lukasz-madon/awesome-remote-job)
-5. 🎉 Merged PR [#60](https://github.com//fontsource/fontsource/pull/60) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
+1. 🎉 Merged PR [#7](https://github.com//fontsource/google-font-metadata/pull/7) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
+2. 🎉 Merged PR [#8](https://github.com//fontsource/google-font-metadata/pull/8) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
+3. 💪 Opened PR [#22431](https://github.com//mui-org/material-ui/pull/22431) in [mui-org/material-ui](https://github.com//mui-org/material-ui)
+4. 💪 Opened PR [#3](https://github.com//trekhleb/promote-your-next-startup/pull/3) in [trekhleb/promote-your-next-startup](https://github.com//trekhleb/promote-your-next-startup)
+5. 💪 Opened PR [#106](https://github.com//engineerapart/TheRemoteFreelancer/pull/106) in [engineerapart/TheRemoteFreelancer](https://github.com//engineerapart/TheRemoteFreelancer)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
