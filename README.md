@@ -16,11 +16,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com//fontsource/google-font-metadata/pull/7) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
-2. 🎉 Merged PR [#8](https://github.com//fontsource/google-font-metadata/pull/8) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
-3. 💪 Opened PR [#22431](https://github.com//mui-org/material-ui/pull/22431) in [mui-org/material-ui](https://github.com//mui-org/material-ui)
-4. 💪 Opened PR [#3](https://github.com//trekhleb/promote-your-next-startup/pull/3) in [trekhleb/promote-your-next-startup](https://github.com//trekhleb/promote-your-next-startup)
-5. 💪 Opened PR [#106](https://github.com//engineerapart/TheRemoteFreelancer/pull/106) in [engineerapart/TheRemoteFreelancer](https://github.com//engineerapart/TheRemoteFreelancer)
+1. 🎉 Merged PR [#61](https://github.com//fontsource/fontsource/pull/61) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
+2. 🎉 Merged PR [#7](https://github.com//fontsource/google-font-metadata/pull/7) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
+3. 🎉 Merged PR [#8](https://github.com//fontsource/google-font-metadata/pull/8) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
+4. 💪 Opened PR [#22431](https://github.com//mui-org/material-ui/pull/22431) in [mui-org/material-ui](https://github.com//mui-org/material-ui)
+5. 💪 Opened PR [#3](https://github.com//trekhleb/promote-your-next-startup/pull/3) in [trekhleb/promote-your-next-startup](https://github.com//trekhleb/promote-your-next-startup)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
