@@ -16,11 +16,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com//DecliningLotus/gatsby-lotus-starter/issues/120) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
-2. 🗣 Commented on [#120](https://github.com//DecliningLotus/gatsby-lotus-starter/issues/120) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
-3. 🎉 Merged PR [#128](https://github.com//DecliningLotus/gatsby-lotus-starter/pull/128) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
-4. 💪 Opened PR [#128](https://github.com//DecliningLotus/gatsby-lotus-starter/pull/128) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
-5. 🎉 Merged PR [#11](https://github.com//fontsource/google-font-metadata/pull/11) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
+1. 🎉 Merged PR [#63](https://github.com//fontsource/fontsource/pull/63) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
+2. 💪 Opened PR [#63](https://github.com//fontsource/fontsource/pull/63) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
+3. 🗣 Commented on [#120](https://github.com//DecliningLotus/gatsby-lotus-starter/issues/120) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
+4. 🗣 Commented on [#120](https://github.com//DecliningLotus/gatsby-lotus-starter/issues/120) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
+5. 🎉 Merged PR [#128](https://github.com//DecliningLotus/gatsby-lotus-starter/pull/128) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
