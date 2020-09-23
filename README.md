@@ -16,11 +16,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com//fontsource/fontsource/pull/63) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
-2. 💪 Opened PR [#63](https://github.com//fontsource/fontsource/pull/63) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
-3. 🗣 Commented on [#120](https://github.com//DecliningLotus/gatsby-lotus-starter/issues/120) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
-4. 🗣 Commented on [#120](https://github.com//DecliningLotus/gatsby-lotus-starter/issues/120) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
-5. 🎉 Merged PR [#128](https://github.com//DecliningLotus/gatsby-lotus-starter/pull/128) in [DecliningLotus/gatsby-lotus-starter](https://github.com//DecliningLotus/gatsby-lotus-starter)
+1. 🎉 Merged PR [#13](https://github.com//fontsource/google-font-metadata/pull/13) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
+2. 🎉 Merged PR [#12](https://github.com//fontsource/google-font-metadata/pull/12) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
+3. 💪 Opened PR [#12](https://github.com//fontsource/google-font-metadata/pull/12) in [fontsource/google-font-metadata](https://github.com//fontsource/google-font-metadata)
+4. 🎉 Merged PR [#63](https://github.com//fontsource/fontsource/pull/63) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
+5. 💪 Opened PR [#63](https://github.com//fontsource/fontsource/pull/63) in [fontsource/fontsource](https://github.com//fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
