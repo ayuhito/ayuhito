@@ -10,7 +10,6 @@
 
 ### 📦 Sideprojects
 
-- [Hypelance](https://hypelance.com/) - Digital Marketplace and Community for Freelancers.
 - Life Tracker App [WIP] - Lifestyle tracking mobile application that uses geolocation analysis to predict activities.
 
 ### ⚡ Recent Activity
