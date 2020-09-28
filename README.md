@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#527](https://github.com/gridsome/gridsome.org/issues/527) in [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org)
-2. 🎉 Merged PR [#13](https://github.com/fontsource/google-font-metadata/pull/13) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-3. 🎉 Merged PR [#12](https://github.com/fontsource/google-font-metadata/pull/12) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. 💪 Opened PR [#12](https://github.com/fontsource/google-font-metadata/pull/12) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. 🎉 Merged PR [#63](https://github.com/fontsource/fontsource/pull/63) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#129](https://github.com/DecliningLotus/gatsby-lotus-starter/pull/129) in [DecliningLotus/gatsby-lotus-starter](https://github.com/DecliningLotus/gatsby-lotus-starter)
+2. ❗️ Opened issue [#527](https://github.com/gridsome/gridsome.org/issues/527) in [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org)
+3. 🎉 Merged PR [#13](https://github.com/fontsource/google-font-metadata/pull/13) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+4. 🎉 Merged PR [#12](https://github.com/fontsource/google-font-metadata/pull/12) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. 💪 Opened PR [#12](https://github.com/fontsource/google-font-metadata/pull/12) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
