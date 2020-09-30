@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/fontsource/fontsource/issues/30) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#4](https://github.com/fontsource/google-font-metadata/issues/4) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-3. 🗣 Commented on [#48](https://github.com/fontsource/fontsource/issues/48) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#48](https://github.com/fontsource/fontsource/issues/48) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#30](https://github.com/fontsource/fontsource/issues/30) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#4](https://github.com/fontsource/google-font-metadata/issues/4) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 4. 🗣 Commented on [#48](https://github.com/fontsource/fontsource/issues/48) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#129](https://github.com/DecliningLotus/gatsby-lotus-starter/pull/129) in [DecliningLotus/gatsby-lotus-starter](https://github.com/DecliningLotus/gatsby-lotus-starter)
+5. 🗣 Commented on [#48](https://github.com/fontsource/fontsource/issues/48) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
