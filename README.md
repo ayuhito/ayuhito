@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/fontsource/fontsource-search-directory/issues/1) in [fontsource/fontsource-search-directory](https://github.com/fontsource/fontsource-search-directory)
-2. ❗️ Closed issue [#48](https://github.com/fontsource/fontsource/issues/48) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#48](https://github.com/fontsource/fontsource/issues/48) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#48](https://github.com/fontsource/fontsource/issues/48) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#30](https://github.com/fontsource/fontsource/issues/30) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#65](https://github.com/fontsource/fontsource/pull/65) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#65](https://github.com/fontsource/fontsource/pull/65) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#1](https://github.com/fontsource/fontsource-search-directory/issues/1) in [fontsource/fontsource-search-directory](https://github.com/fontsource/fontsource-search-directory)
+5. ❗️ Closed issue [#48](https://github.com/fontsource/fontsource/issues/48) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
