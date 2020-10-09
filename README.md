@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/fontsource/fontsource/issues/66) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#27313](https://github.com/gatsbyjs/gatsby/pull/27313) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-3. ❗️ Opened issue [#3](https://github.com/fontsource/search-directory/issues/3) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
-4. 🗣 Commented on [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#65](https://github.com/fontsource/fontsource/pull/65) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#69](https://github.com/fontsource/fontsource/pull/69) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Closed issue [#67](https://github.com/fontsource/fontsource/issues/67) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#69](https://github.com/fontsource/fontsource/pull/69) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#66](https://github.com/fontsource/fontsource/issues/66) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#27313](https://github.com/gatsbyjs/gatsby/pull/27313) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
