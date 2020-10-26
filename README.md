@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/fontsource/fontsource/issues/78) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#77](https://github.com/fontsource/fontsource/issues/77) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#19](https://github.com/fontsource/google-font-metadata/issues/19) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. ❗️ Opened issue [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. 🗣 Commented on [#2757](https://github.com/google/fonts/issues/2757) in [google/fonts](https://github.com/google/fonts)
+1. 🎉 Merged PR [#76](https://github.com/fontsource/fontsource/pull/76) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#78](https://github.com/fontsource/fontsource/issues/78) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#77](https://github.com/fontsource/fontsource/issues/77) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#19](https://github.com/fontsource/google-font-metadata/issues/19) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. ❗️ Opened issue [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
