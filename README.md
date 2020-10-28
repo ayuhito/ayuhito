@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#77](https://github.com/fontsource/fontsource/issues/77) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#76](https://github.com/fontsource/fontsource/pull/76) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#78](https://github.com/fontsource/fontsource/issues/78) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#77](https://github.com/fontsource/fontsource/issues/77) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#19](https://github.com/fontsource/google-font-metadata/issues/19) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. 🗣 Commented on [#77](https://github.com/fontsource/fontsource/issues/77) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#76](https://github.com/fontsource/fontsource/pull/76) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#78](https://github.com/fontsource/fontsource/issues/78) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#77](https://github.com/fontsource/fontsource/issues/77) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
