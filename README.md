@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2321](https://github.com/google/fonts/issues/2321) in [google/fonts](https://github.com/google/fonts)
-2. ❗️ Closed issue [#82](https://github.com/fontsource/fontsource/issues/82) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#82](https://github.com/fontsource/fontsource/issues/82) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#79](https://github.com/fontsource/fontsource/issues/79) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#21](https://github.com/fontsource/google-font-metadata/issues/21) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+1. ❗️ Opened issue [#22](https://github.com/fontsource/google-font-metadata/issues/22) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. 🗣 Commented on [#2321](https://github.com/google/fonts/issues/2321) in [google/fonts](https://github.com/google/fonts)
+3. ❗️ Closed issue [#82](https://github.com/fontsource/fontsource/issues/82) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#82](https://github.com/fontsource/fontsource/issues/82) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#79](https://github.com/fontsource/fontsource/issues/79) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
