@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/NDISCOVER/Exo-2.0/issues/11) in [NDISCOVER/Exo-2.0](https://github.com/NDISCOVER/Exo-2.0)
-2. 🗣 Commented on [#27313](https://github.com/gatsbyjs/gatsby/issues/27313) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-3. 🎉 Merged PR [#87](https://github.com/fontsource/fontsource/pull/87) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#87](https://github.com/fontsource/fontsource/issues/87) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#27](https://github.com/fontsource/google-font-metadata/pull/27) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+1. ❗️ Reopened issue [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. 🗣 Commented on [#11](https://github.com/NDISCOVER/Exo-2.0/issues/11) in [NDISCOVER/Exo-2.0](https://github.com/NDISCOVER/Exo-2.0)
+3. 🗣 Commented on [#27313](https://github.com/gatsbyjs/gatsby/issues/27313) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+4. 🎉 Merged PR [#87](https://github.com/fontsource/fontsource/pull/87) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#87](https://github.com/fontsource/fontsource/issues/87) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
