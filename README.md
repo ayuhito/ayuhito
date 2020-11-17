@@ -15,10 +15,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27313](https://github.com/gatsbyjs/gatsby/issues/27313) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 🗣 Commented on [#11](https://github.com/NDISCOVER/Exo-2.0/issues/11) in [NDISCOVER/Exo-2.0](https://github.com/NDISCOVER/Exo-2.0)
-3. 🗣 Commented on [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. ❗️ Reopened issue [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+1. ❗️ Closed issue [#527](https://github.com/gridsome/gridsome.org/issues/527) in [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org)
+2. ❗️ Closed issue [#2756](https://github.com/google/fonts/issues/2756) in [google/fonts](https://github.com/google/fonts)
+3. 🗣 Commented on [#2756](https://github.com/google/fonts/issues/2756) in [google/fonts](https://github.com/google/fonts)
+4. 🗣 Commented on [#27313](https://github.com/gatsbyjs/gatsby/issues/27313) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
 5. 🗣 Commented on [#11](https://github.com/NDISCOVER/Exo-2.0/issues/11) in [NDISCOVER/Exo-2.0](https://github.com/NDISCOVER/Exo-2.0)
 <!--END_SECTION:activity-->
 
