@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#88](https://github.com/fontsource/fontsource/issues/88) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#527](https://github.com/gridsome/gridsome.org/issues/527) in [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org)
-3. ❗️ Closed issue [#2756](https://github.com/google/fonts/issues/2756) in [google/fonts](https://github.com/google/fonts)
-4. 🗣 Commented on [#2756](https://github.com/google/fonts/issues/2756) in [google/fonts](https://github.com/google/fonts)
-5. 🗣 Commented on [#27313](https://github.com/gatsbyjs/gatsby/issues/27313) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+1. ❗️ Opened issue [#89](https://github.com/fontsource/fontsource/issues/89) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Opened issue [#88](https://github.com/fontsource/fontsource/issues/88) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#527](https://github.com/gridsome/gridsome.org/issues/527) in [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org)
+4. ❗️ Closed issue [#2756](https://github.com/google/fonts/issues/2756) in [google/fonts](https://github.com/google/fonts)
+5. 🗣 Commented on [#2756](https://github.com/google/fonts/issues/2756) in [google/fonts](https://github.com/google/fonts)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
