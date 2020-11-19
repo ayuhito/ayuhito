@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#135](https://github.com/DecliningLotus/gatsby-lotus-starter/issues/135) in [DecliningLotus/gatsby-lotus-starter](https://github.com/DecliningLotus/gatsby-lotus-starter)
-2. ❗️ Closed issue [#90](https://github.com/fontsource/fontsource/issues/90) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#90](https://github.com/fontsource/fontsource/issues/90) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#89](https://github.com/fontsource/fontsource/issues/89) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#88](https://github.com/fontsource/fontsource/issues/88) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#92](https://github.com/fontsource/fontsource/issues/92) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#135](https://github.com/DecliningLotus/gatsby-lotus-starter/issues/135) in [DecliningLotus/gatsby-lotus-starter](https://github.com/DecliningLotus/gatsby-lotus-starter)
+3. ❗️ Closed issue [#90](https://github.com/fontsource/fontsource/issues/90) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#90](https://github.com/fontsource/fontsource/issues/90) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#89](https://github.com/fontsource/fontsource/issues/89) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
