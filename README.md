@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#95](https://github.com/fontsource/fontsource/issues/95) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#91](https://github.com/fontsource/fontsource/issues/91) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#91](https://github.com/fontsource/fontsource/issues/91) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#92](https://github.com/fontsource/fontsource/issues/92) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#135](https://github.com/DecliningLotus/gatsby-lotus-starter/issues/135) in [DecliningLotus/gatsby-lotus-starter](https://github.com/DecliningLotus/gatsby-lotus-starter)
+2. 🗣 Commented on [#95](https://github.com/fontsource/fontsource/issues/95) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#91](https://github.com/fontsource/fontsource/issues/91) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#91](https://github.com/fontsource/fontsource/issues/91) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#92](https://github.com/fontsource/fontsource/issues/92) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
