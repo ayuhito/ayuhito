@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/fontsource/fontsource/issues/95) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#96](https://github.com/fontsource/fontsource/issues/96) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 2. 🗣 Commented on [#95](https://github.com/fontsource/fontsource/issues/95) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Closed issue [#91](https://github.com/fontsource/fontsource/issues/91) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#91](https://github.com/fontsource/fontsource/issues/91) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#92](https://github.com/fontsource/fontsource/issues/92) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#95](https://github.com/fontsource/fontsource/issues/95) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Closed issue [#91](https://github.com/fontsource/fontsource/issues/91) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#91](https://github.com/fontsource/fontsource/issues/91) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
