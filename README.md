@@ -15,10 +15,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#104](https://github.com/fontsource/fontsource/issues/104) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#104](https://github.com/fontsource/fontsource/issues/104) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#103](https://github.com/fontsource/fontsource/pull/103) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#103](https://github.com/fontsource/fontsource/issues/103) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#33](https://github.com/fontsource/google-font-metadata/issues/33) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. ❗️ Closed issue [#104](https://github.com/fontsource/fontsource/issues/104) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#104](https://github.com/fontsource/fontsource/issues/104) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#103](https://github.com/fontsource/fontsource/pull/103) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 5. 🗣 Commented on [#103](https://github.com/fontsource/fontsource/issues/103) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
