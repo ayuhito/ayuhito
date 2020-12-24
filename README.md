@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#108](https://github.com/fontsource/fontsource/issues/108) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#108](https://github.com/fontsource/fontsource/issues/108) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Closed issue [#92](https://github.com/fontsource/fontsource/issues/92) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#92](https://github.com/fontsource/fontsource/issues/92) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#88](https://github.com/fontsource/fontsource/issues/88) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#28750](https://github.com/gatsbyjs/gatsby/pull/28750) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+2. ❗️ Closed issue [#108](https://github.com/fontsource/fontsource/issues/108) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#108](https://github.com/fontsource/fontsource/issues/108) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Closed issue [#92](https://github.com/fontsource/fontsource/issues/92) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#92](https://github.com/fontsource/fontsource/issues/92) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
