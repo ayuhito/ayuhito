@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/fontsource/google-font-metadata/pull/43) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. 🎉 Merged PR [#127](https://github.com/fontsource/fontsource/pull/127) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#114](https://github.com/fontsource/fontsource/issues/114) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❌ Closed PR [#2847](https://github.com/moklick/frontend-stuff/pull/2847) in [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff)
-5. ❌ Closed PR [#3](https://github.com/trekhleb/promote-your-next-startup/pull/3) in [trekhleb/promote-your-next-startup](https://github.com/trekhleb/promote-your-next-startup)
+1. 🎉 Merged PR [#1](https://github.com/DecliningLotus/next-lotus-starter/pull/1) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+2. 🎉 Merged PR [#43](https://github.com/fontsource/google-font-metadata/pull/43) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. 🎉 Merged PR [#127](https://github.com/fontsource/fontsource/pull/127) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#114](https://github.com/fontsource/fontsource/issues/114) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❌ Closed PR [#2847](https://github.com/moklick/frontend-stuff/pull/2847) in [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
