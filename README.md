@@ -15,11 +15,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/fontsource/fontsource/pull/126) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#1](https://github.com/DecliningLotus/next-lotus-starter/pull/1) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
-3. 🎉 Merged PR [#43](https://github.com/fontsource/google-font-metadata/pull/43) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. 🎉 Merged PR [#127](https://github.com/fontsource/fontsource/pull/127) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#114](https://github.com/fontsource/fontsource/issues/114) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Reopened issue [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#126](https://github.com/fontsource/fontsource/pull/126) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#1](https://github.com/DecliningLotus/next-lotus-starter/pull/1) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+5. 🎉 Merged PR [#43](https://github.com/fontsource/google-font-metadata/pull/43) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
