@@ -6,7 +6,7 @@
 
 - [Fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [Google Font Metadata](https://github.com/fontsource/google-font-metadata) - A metadata generator that fetches and parses the Google Fonts API.
-- [Gatsby Lotus Starter](https://github.com/DecliningLotus/gatsby-lotus-starter) - Personal Gatsby starter template to streamline the creation of new projects.
+- [Next Lotus Starter](https://github.com/DecliningLotus/next-lotus-starter) - Personal Next.js starter template to streamline the creation of new projects.
 
 ### 📦 Sideprojects
 
@@ -15,6 +15,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 2. 🗣 Commented on [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 3. ❗️ Reopened issue [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
@@ -41,6 +42,7 @@
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white" />
 <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
