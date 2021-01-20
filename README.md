@@ -17,10 +17,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#57](https://github.com/fontsource/search-directory/issues/57) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
-2. 🗣 Commented on [#4807](https://github.com/simple-icons/simple-icons/issues/4807) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Opened issue [#4807](https://github.com/simple-icons/simple-icons/issues/4807) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#3083](https://github.com/chakra-ui/chakra-ui/issues/3083) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-5. ❗️ Opened issue [#131](https://github.com/fontsource/fontsource/issues/131) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#57](https://github.com/fontsource/search-directory/issues/57) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+3. 🗣 Commented on [#57](https://github.com/fontsource/search-directory/issues/57) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+4. 🗣 Commented on [#4807](https://github.com/simple-icons/simple-icons/issues/4807) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Opened issue [#4807](https://github.com/simple-icons/simple-icons/issues/4807) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
