@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#62](https://github.com/fontsource/search-directory/issues/62) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
-2. ❗️ Opened issue [#62](https://github.com/fontsource/search-directory/issues/62) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
-3. ❗️ Opened issue [#61](https://github.com/fontsource/search-directory/issues/61) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
-4. 🎉 Merged PR [#45](https://github.com/fontsource/google-font-metadata/pull/45) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. ❗️ Closed issue [#123](https://github.com/fontsource/fontsource/issues/123) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#3143](https://github.com/chakra-ui/chakra-ui/issues/3143) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+2. 🗣 Commented on [#62](https://github.com/fontsource/search-directory/issues/62) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+3. ❗️ Opened issue [#62](https://github.com/fontsource/search-directory/issues/62) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+4. ❗️ Opened issue [#61](https://github.com/fontsource/search-directory/issues/61) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+5. 🎉 Merged PR [#45](https://github.com/fontsource/google-font-metadata/pull/45) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
