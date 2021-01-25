@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#62](https://github.com/fontsource/search-directory/issues/62) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
-2. ❗️ Opened issue [#61](https://github.com/fontsource/search-directory/issues/61) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
-3. 🎉 Merged PR [#45](https://github.com/fontsource/google-font-metadata/pull/45) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. ❗️ Closed issue [#123](https://github.com/fontsource/fontsource/issues/123) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#123](https://github.com/fontsource/fontsource/issues/123) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#62](https://github.com/fontsource/search-directory/issues/62) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+2. ❗️ Opened issue [#62](https://github.com/fontsource/search-directory/issues/62) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+3. ❗️ Opened issue [#61](https://github.com/fontsource/search-directory/issues/61) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+4. 🎉 Merged PR [#45](https://github.com/fontsource/google-font-metadata/pull/45) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. ❗️ Closed issue [#123](https://github.com/fontsource/fontsource/issues/123) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
