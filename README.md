@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#138](https://github.com/fontsource/fontsource/issues/138) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Opened issue [#3183](https://github.com/chakra-ui/chakra-ui/issues/3183) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-3. ❗️ Closed issue [#95](https://github.com/fontsource/fontsource/issues/95) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#95](https://github.com/fontsource/fontsource/issues/95) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#137](https://github.com/fontsource/fontsource/issues/137) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#2](https://github.com/DecliningLotus/next-lotus-starter/pull/2) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+2. 🎉 Merged PR [#139](https://github.com/fontsource/fontsource/pull/139) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#136](https://github.com/fontsource/fontsource/issues/136) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#139](https://github.com/fontsource/fontsource/pull/139) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#137](https://github.com/fontsource/fontsource/issues/137) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
