@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3183](https://github.com/chakra-ui/chakra-ui/issues/3183) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-2. 🎉 Merged PR [#2](https://github.com/DecliningLotus/next-lotus-starter/pull/2) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
-3. 🎉 Merged PR [#139](https://github.com/fontsource/fontsource/pull/139) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Closed issue [#136](https://github.com/fontsource/fontsource/issues/136) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#139](https://github.com/fontsource/fontsource/pull/139) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#62](https://github.com/fontsource/search-directory/issues/62) in [fontsource/search-directory](https://github.com/fontsource/search-directory)
+2. 🗣 Commented on [#3183](https://github.com/chakra-ui/chakra-ui/issues/3183) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+3. 🎉 Merged PR [#2](https://github.com/DecliningLotus/next-lotus-starter/pull/2) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+4. 🎉 Merged PR [#139](https://github.com/fontsource/fontsource/pull/139) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Closed issue [#136](https://github.com/fontsource/fontsource/issues/136) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
