@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#18279](https://github.com/jsdelivr/jsdelivr/issues/18279) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
-2. 🎉 Merged PR [#150](https://github.com/fontsource/fontsource/pull/150) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#151](https://github.com/fontsource/fontsource/issues/151) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Closed issue [#128](https://github.com/fontsource/fontsource/issues/128) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#128](https://github.com/fontsource/fontsource/issues/128) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#152](https://github.com/fontsource/fontsource/issues/152) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Opened issue [#18279](https://github.com/jsdelivr/jsdelivr/issues/18279) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
+3. 🎉 Merged PR [#150](https://github.com/fontsource/fontsource/pull/150) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#151](https://github.com/fontsource/fontsource/issues/151) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Closed issue [#128](https://github.com/fontsource/fontsource/issues/128) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
