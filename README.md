@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#153](https://github.com/fontsource/fontsource/issues/153) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#152](https://github.com/fontsource/fontsource/issues/152) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Opened issue [#18279](https://github.com/jsdelivr/jsdelivr/issues/18279) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
-4. 🎉 Merged PR [#150](https://github.com/fontsource/fontsource/pull/150) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#151](https://github.com/fontsource/fontsource/issues/151) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#145](https://github.com/DecliningLotus/gatsby-lotus-starter/pull/145) in [DecliningLotus/gatsby-lotus-starter](https://github.com/DecliningLotus/gatsby-lotus-starter)
+2. 🗣 Commented on [#153](https://github.com/fontsource/fontsource/issues/153) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#152](https://github.com/fontsource/fontsource/issues/152) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#18279](https://github.com/jsdelivr/jsdelivr/issues/18279) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
+5. 🎉 Merged PR [#150](https://github.com/fontsource/fontsource/pull/150) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
