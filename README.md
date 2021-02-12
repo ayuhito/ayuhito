@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/DecliningLotus/next-lotus-starter/issues/3) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
-2. 🗣 Commented on [#158](https://github.com/fontsource/fontsource/issues/158) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#142](https://github.com/fontsource/fontsource/issues/142) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#4](https://github.com/DecliningLotus/next-lotus-starter/pull/4) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+2. 🗣 Commented on [#3](https://github.com/DecliningLotus/next-lotus-starter/issues/3) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+3. 🗣 Commented on [#158](https://github.com/fontsource/fontsource/issues/158) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#142](https://github.com/fontsource/fontsource/issues/142) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
