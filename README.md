@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. 🗣 Commented on [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-3. 🗣 Commented on [#51](https://github.com/fontsource/google-font-metadata/issues/51) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. 🗣 Commented on [#161](https://github.com/fontsource/fontsource/issues/161) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Closed issue [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. 🗣 Commented on [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+4. 🗣 Commented on [#51](https://github.com/fontsource/google-font-metadata/issues/51) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 5. 🗣 Commented on [#161](https://github.com/fontsource/fontsource/issues/161) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
