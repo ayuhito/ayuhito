@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#163](https://github.com/fontsource/fontsource/issues/163) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#3120](https://github.com/chakra-ui/chakra-ui/issues/3120) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-4. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#18](https://github.com/fontsource/google-font-metadata/issues/18) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+1. 🗣 Commented on [#165](https://github.com/fontsource/fontsource/issues/165) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#163](https://github.com/fontsource/fontsource/issues/163) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#3120](https://github.com/chakra-ui/chakra-ui/issues/3120) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+5. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
