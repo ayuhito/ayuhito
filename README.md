@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#7](https://github.com/DecliningLotus/next-lotus-starter/issues/7) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
-2. 🗣 Commented on [#168](https://github.com/fontsource/fontsource/issues/168) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#167](https://github.com/fontsource/fontsource/pull/167) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Closed issue [#166](https://github.com/fontsource/fontsource/issues/166) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#167](https://github.com/fontsource/fontsource/pull/167) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#2](https://github.com/fontsource/download-stat-aggregator/issues/2) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+2. ❗️ Opened issue [#7](https://github.com/DecliningLotus/next-lotus-starter/issues/7) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+3. 🗣 Commented on [#168](https://github.com/fontsource/fontsource/issues/168) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#167](https://github.com/fontsource/fontsource/pull/167) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Closed issue [#166](https://github.com/fontsource/fontsource/issues/166) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
