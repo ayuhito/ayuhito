@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/fontsource/download-stat-aggregator/pull/4) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
-2. ❗️ Closed issue [#2](https://github.com/fontsource/download-stat-aggregator/issues/2) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
-3. 💪 Opened PR [#4](https://github.com/fontsource/download-stat-aggregator/pull/4) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
-4. ❗️ Opened issue [#573](https://github.com/gridsome/gridsome.org/issues/573) in [gridsome/gridsome.org](https://github.com/gridsome/gridsome.org)
-5. 🎉 Merged PR [#169](https://github.com/fontsource/fontsource/pull/169) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#173](https://github.com/fontsource/fontsource/pull/173) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Closed issue [#130](https://github.com/fontsource/fontsource/issues/130) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#173](https://github.com/fontsource/fontsource/pull/173) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#4](https://github.com/fontsource/download-stat-aggregator/pull/4) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+5. ❗️ Closed issue [#2](https://github.com/fontsource/download-stat-aggregator/issues/2) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
