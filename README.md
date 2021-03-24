@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1098](https://github.com/readthedocs/sphinx_rtd_theme/issues/1098) in [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
-2. 🗣 Commented on [#1098](https://github.com/readthedocs/sphinx_rtd_theme/issues/1098) in [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
-3. 🎉 Merged PR [#173](https://github.com/fontsource/fontsource/pull/173) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Closed issue [#130](https://github.com/fontsource/fontsource/issues/130) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#173](https://github.com/fontsource/fontsource/pull/173) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Closed issue [#174](https://github.com/fontsource/fontsource/issues/174) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#174](https://github.com/fontsource/fontsource/issues/174) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#1098](https://github.com/readthedocs/sphinx_rtd_theme/issues/1098) in [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
+4. 🗣 Commented on [#1098](https://github.com/readthedocs/sphinx_rtd_theme/issues/1098) in [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
+5. 🎉 Merged PR [#173](https://github.com/fontsource/fontsource/pull/173) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
