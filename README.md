@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#174](https://github.com/fontsource/fontsource/issues/174) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#174](https://github.com/fontsource/fontsource/issues/174) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#1098](https://github.com/readthedocs/sphinx_rtd_theme/issues/1098) in [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
+1. 💪 Opened PR [#3691](https://github.com/chakra-ui/chakra-ui/pull/3691) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+2. ❗️ Closed issue [#174](https://github.com/fontsource/fontsource/issues/174) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#174](https://github.com/fontsource/fontsource/issues/174) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 4. 🗣 Commented on [#1098](https://github.com/readthedocs/sphinx_rtd_theme/issues/1098) in [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
-5. 🎉 Merged PR [#173](https://github.com/fontsource/fontsource/pull/173) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#1098](https://github.com/readthedocs/sphinx_rtd_theme/issues/1098) in [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
