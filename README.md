@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#177](https://github.com/fontsource/fontsource/issues/177) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#11](https://github.com/DecliningLotus/next-lotus-starter/issues/11) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
-3. 🗣 Commented on [#9](https://github.com/DecliningLotus/next-lotus-starter/issues/9) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
-4. 🗣 Commented on [#177](https://github.com/fontsource/fontsource/issues/177) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#3](https://github.com/fontsource/download-stat-aggregator/issues/3) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+1. ❗️ Opened issue [#3721](https://github.com/chakra-ui/chakra-ui/issues/3721) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+2. 🗣 Commented on [#177](https://github.com/fontsource/fontsource/issues/177) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#11](https://github.com/DecliningLotus/next-lotus-starter/issues/11) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+4. 🗣 Commented on [#9](https://github.com/DecliningLotus/next-lotus-starter/issues/9) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+5. 🗣 Commented on [#177](https://github.com/fontsource/fontsource/issues/177) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
