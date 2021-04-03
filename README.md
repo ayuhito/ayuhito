@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#382](https://github.com/michaelrambeau/bestofjs/issues/382) in [michaelrambeau/bestofjs](https://github.com/michaelrambeau/bestofjs)
-2. ❗️ Opened issue [#3721](https://github.com/chakra-ui/chakra-ui/issues/3721) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-3. 🗣 Commented on [#177](https://github.com/fontsource/fontsource/issues/177) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#11](https://github.com/DecliningLotus/next-lotus-starter/issues/11) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
-5. 🗣 Commented on [#9](https://github.com/DecliningLotus/next-lotus-starter/issues/9) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+1. 🗣 Commented on [#382](https://github.com/michaelrambeau/bestofjs/issues/382) in [michaelrambeau/bestofjs](https://github.com/michaelrambeau/bestofjs)
+2. ❗️ Opened issue [#382](https://github.com/michaelrambeau/bestofjs/issues/382) in [michaelrambeau/bestofjs](https://github.com/michaelrambeau/bestofjs)
+3. ❗️ Opened issue [#3721](https://github.com/chakra-ui/chakra-ui/issues/3721) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+4. 🗣 Commented on [#177](https://github.com/fontsource/fontsource/issues/177) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#11](https://github.com/DecliningLotus/next-lotus-starter/issues/11) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
