@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#182](https://github.com/fontsource/fontsource/issues/182) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#382](https://github.com/michaelrambeau/bestofjs/issues/382) in [michaelrambeau/bestofjs](https://github.com/michaelrambeau/bestofjs)
-3. ❗️ Opened issue [#382](https://github.com/michaelrambeau/bestofjs/issues/382) in [michaelrambeau/bestofjs](https://github.com/michaelrambeau/bestofjs)
-4. ❗️ Opened issue [#3721](https://github.com/chakra-ui/chakra-ui/issues/3721) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-5. 🗣 Commented on [#177](https://github.com/fontsource/fontsource/issues/177) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❌ Closed PR [#183](https://github.com/fontsource/fontsource/pull/183) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#183](https://github.com/fontsource/fontsource/issues/183) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#182](https://github.com/fontsource/fontsource/issues/182) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#382](https://github.com/michaelrambeau/bestofjs/issues/382) in [michaelrambeau/bestofjs](https://github.com/michaelrambeau/bestofjs)
+5. ❗️ Opened issue [#382](https://github.com/michaelrambeau/bestofjs/issues/382) in [michaelrambeau/bestofjs](https://github.com/michaelrambeau/bestofjs)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
