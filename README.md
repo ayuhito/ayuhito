@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#58](https://github.com/fontsource/google-font-metadata/issues/58) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. ❌ Closed PR [#183](https://github.com/fontsource/fontsource/pull/183) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#183](https://github.com/fontsource/fontsource/issues/183) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#182](https://github.com/fontsource/fontsource/issues/182) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#382](https://github.com/michaelrambeau/bestofjs/issues/382) in [michaelrambeau/bestofjs](https://github.com/michaelrambeau/bestofjs)
+1. 🗣 Commented on [#184](https://github.com/fontsource/fontsource/issues/184) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#58](https://github.com/fontsource/google-font-metadata/issues/58) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. ❌ Closed PR [#183](https://github.com/fontsource/fontsource/pull/183) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#183](https://github.com/fontsource/fontsource/issues/183) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#182](https://github.com/fontsource/fontsource/issues/182) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
