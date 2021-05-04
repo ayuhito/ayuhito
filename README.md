@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#26082](https://github.com/mui-org/material-ui/issues/26082) in [mui-org/material-ui](https://github.com/mui-org/material-ui)
-2. 🗣 Commented on [#142](https://github.com/fontsource/fontsource/issues/142) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Reopened issue [#142](https://github.com/fontsource/fontsource/issues/142) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Closed issue [#182](https://github.com/fontsource/fontsource/issues/182) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#182](https://github.com/fontsource/fontsource/issues/182) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#179](https://github.com/fontsource/fontsource/issues/179) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#187](https://github.com/fontsource/fontsource/pull/187) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#187](https://github.com/fontsource/fontsource/pull/187) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#186](https://github.com/fontsource/fontsource/pull/186) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#186](https://github.com/fontsource/fontsource/pull/186) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
