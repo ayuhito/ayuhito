@@ -18,8 +18,8 @@
 
 1. 🗣 Commented on [#215](https://github.com/fontsource/fontsource/issues/215) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 2. 🗣 Commented on [#215](https://github.com/fontsource/fontsource/issues/215) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#216](https://github.com/fontsource/fontsource/pull/216) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#212](https://github.com/fontsource/fontsource/issues/212) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#215](https://github.com/fontsource/fontsource/issues/215) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#216](https://github.com/fontsource/fontsource/pull/216) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 5. 🗣 Commented on [#212](https://github.com/fontsource/fontsource/issues/212) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
