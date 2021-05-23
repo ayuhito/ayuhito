@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#234](https://github.com/fontsource/fontsource/issues/234) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#120](https://github.com/snowpackjs/pika-pack-builders/issues/120) in [snowpackjs/pika-pack-builders](https://github.com/snowpackjs/pika-pack-builders)
-3. 🗣 Commented on [#16](https://github.com/SFDigitalServices/design-system/issues/16) in [SFDigitalServices/design-system](https://github.com/SFDigitalServices/design-system)
-4. 🎉 Merged PR [#232](https://github.com/fontsource/fontsource/pull/232) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#232](https://github.com/fontsource/fontsource/pull/232) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#233](https://github.com/fontsource/fontsource/pull/233) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#235](https://github.com/fontsource/fontsource/pull/235) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#235](https://github.com/fontsource/fontsource/pull/235) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#234](https://github.com/fontsource/fontsource/issues/234) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#120](https://github.com/snowpackjs/pika-pack-builders/issues/120) in [snowpackjs/pika-pack-builders](https://github.com/snowpackjs/pika-pack-builders)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
