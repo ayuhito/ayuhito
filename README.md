@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#237](https://github.com/fontsource/fontsource/pull/237) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#236](https://github.com/fontsource/fontsource/pull/236) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#233](https://github.com/fontsource/fontsource/pull/233) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#235](https://github.com/fontsource/fontsource/pull/235) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#235](https://github.com/fontsource/fontsource/pull/235) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#16](https://github.com/SFDigitalServices/design-system/issues/16) in [SFDigitalServices/design-system](https://github.com/SFDigitalServices/design-system)
+2. 🎉 Merged PR [#237](https://github.com/fontsource/fontsource/pull/237) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#236](https://github.com/fontsource/fontsource/pull/236) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#233](https://github.com/fontsource/fontsource/pull/233) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#235](https://github.com/fontsource/fontsource/pull/235) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
