@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2611](https://github.com/kulshekhar/ts-jest/issues/2611) in [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest)
+1. 🗣 Commented on [#16](https://github.com/SFDigitalServices/design-system/issues/16) in [SFDigitalServices/design-system](https://github.com/SFDigitalServices/design-system)
 2. 🗣 Commented on [#16](https://github.com/SFDigitalServices/design-system/issues/16) in [SFDigitalServices/design-system](https://github.com/SFDigitalServices/design-system)
-3. 🎉 Merged PR [#237](https://github.com/fontsource/fontsource/pull/237) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#236](https://github.com/fontsource/fontsource/pull/236) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#233](https://github.com/fontsource/fontsource/pull/233) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Opened issue [#2611](https://github.com/kulshekhar/ts-jest/issues/2611) in [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest)
+4. 🗣 Commented on [#16](https://github.com/SFDigitalServices/design-system/issues/16) in [SFDigitalServices/design-system](https://github.com/SFDigitalServices/design-system)
+5. 🎉 Merged PR [#237](https://github.com/fontsource/fontsource/pull/237) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
