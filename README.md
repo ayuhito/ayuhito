@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#241](https://github.com/fontsource/fontsource/pull/241) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#242](https://github.com/fontsource/fontsource/pull/242) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#242](https://github.com/fontsource/fontsource/pull/242) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#241](https://github.com/fontsource/fontsource/pull/241) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#4107](https://github.com/chakra-ui/chakra-ui/issues/4107) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+1. ❗️ Opened issue [#3](https://github.com/sentrionic/Valkyrie/issues/3) in [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie)
+2. 🎉 Merged PR [#241](https://github.com/fontsource/fontsource/pull/241) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#242](https://github.com/fontsource/fontsource/pull/242) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#242](https://github.com/fontsource/fontsource/pull/242) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#241](https://github.com/fontsource/fontsource/pull/241) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
