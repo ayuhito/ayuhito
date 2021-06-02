@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/sentrionic/Valkyrie/issues/3) in [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie)
-2. ❗️ Opened issue [#3](https://github.com/sentrionic/Valkyrie/issues/3) in [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie)
-3. 🎉 Merged PR [#241](https://github.com/fontsource/fontsource/pull/241) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#242](https://github.com/fontsource/fontsource/pull/242) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#242](https://github.com/fontsource/fontsource/pull/242) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#1619](https://github.com/sveltejs/kit/issues/1619) in [sveltejs/kit](https://github.com/sveltejs/kit)
+2. 🗣 Commented on [#243](https://github.com/fontsource/fontsource/issues/243) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#3](https://github.com/sentrionic/Valkyrie/issues/3) in [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie)
+4. ❗️ Opened issue [#3](https://github.com/sentrionic/Valkyrie/issues/3) in [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie)
+5. 🎉 Merged PR [#241](https://github.com/fontsource/fontsource/pull/241) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
