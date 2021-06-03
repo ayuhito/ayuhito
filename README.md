@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#25271](https://github.com/vercel/next.js/issues/25271) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#1619](https://github.com/sveltejs/kit/issues/1619) in [sveltejs/kit](https://github.com/sveltejs/kit)
-4. 🗣 Commented on [#243](https://github.com/fontsource/fontsource/issues/243) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#3](https://github.com/sentrionic/Valkyrie/issues/3) in [sentrionic/Valkyrie](https://github.com/sentrionic/Valkyrie)
+1. 🎉 Merged PR [#245](https://github.com/fontsource/fontsource/pull/245) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#243](https://github.com/fontsource/fontsource/issues/243) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#245](https://github.com/fontsource/fontsource/pull/245) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#25271](https://github.com/vercel/next.js/issues/25271) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
