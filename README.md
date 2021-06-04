@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Reopened issue [#64](https://github.com/fontsource/fontsource/issues/64) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#126](https://github.com/fontsource/fontsource/pull/126) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#1](https://github.com/DecliningLotus/next-lotus-starter/pull/1) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+1. 🗣 Commented on [#243](https://github.com/fontsource/fontsource/issues/243) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#245](https://github.com/fontsource/fontsource/pull/245) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#243](https://github.com/fontsource/fontsource/issues/243) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#245](https://github.com/fontsource/fontsource/pull/245) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
