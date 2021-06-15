@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#253](https://github.com/fontsource/fontsource/issues/253) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#253](https://github.com/fontsource/fontsource/issues/253) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#250](https://github.com/fontsource/fontsource/issues/250) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#20](https://github.com/uclaacm/Westwood_Sans/issues/20) in [uclaacm/Westwood_Sans](https://github.com/uclaacm/Westwood_Sans)
-5. 🗣 Commented on [#253](https://github.com/fontsource/fontsource/issues/253) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#253](https://github.com/fontsource/fontsource/issues/253) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Closed issue [#253](https://github.com/fontsource/fontsource/issues/253) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#253](https://github.com/fontsource/fontsource/issues/253) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#250](https://github.com/fontsource/fontsource/issues/250) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#20](https://github.com/uclaacm/Westwood_Sans/issues/20) in [uclaacm/Westwood_Sans](https://github.com/uclaacm/Westwood_Sans)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
