@@ -19,8 +19,8 @@
 1. 🗣 Commented on [#270](https://github.com/fontsource/fontsource/issues/270) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 2. 🗣 Commented on [#270](https://github.com/fontsource/fontsource/issues/270) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 3. 🗣 Commented on [#270](https://github.com/fontsource/fontsource/issues/270) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#265](https://github.com/fontsource/fontsource/issues/265) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#3573](https://github.com/google/fonts/issues/3573) in [google/fonts](https://github.com/google/fonts)
+4. 🗣 Commented on [#270](https://github.com/fontsource/fontsource/issues/270) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#265](https://github.com/fontsource/fontsource/issues/265) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
