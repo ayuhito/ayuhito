@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#24](https://github.com/keshikan/DSEG/issues/24) in [keshikan/DSEG](https://github.com/keshikan/DSEG)
-2. 🗣 Commented on [#275](https://github.com/fontsource/fontsource/issues/275) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#272](https://github.com/fontsource/fontsource/issues/272) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#279](https://github.com/fontsource/fontsource/pull/279) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#275](https://github.com/fontsource/fontsource/issues/275) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
+2. ❗️ Opened issue [#17](https://github.com/tokotype/PlusJakartaSans/issues/17) in [tokotype/PlusJakartaSans](https://github.com/tokotype/PlusJakartaSans)
+3. ❗️ Opened issue [#81](https://github.com/madmalik/mononoki/issues/81) in [madmalik/mononoki](https://github.com/madmalik/mononoki)
+4. ❗️ Opened issue [#45](https://github.com/bBoxType/FiraGO/issues/45) in [bBoxType/FiraGO](https://github.com/bBoxType/FiraGO)
+5. ❗️ Opened issue [#59](https://github.com/ms-studio/karmilla/issues/59) in [ms-studio/karmilla](https://github.com/ms-studio/karmilla)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
