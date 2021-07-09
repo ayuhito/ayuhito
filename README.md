@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#275](https://github.com/fontsource/fontsource/issues/275) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#272](https://github.com/fontsource/fontsource/issues/272) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#279](https://github.com/fontsource/fontsource/pull/279) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Closed issue [#275](https://github.com/fontsource/fontsource/issues/275) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#279](https://github.com/fontsource/fontsource/pull/279) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#24](https://github.com/keshikan/DSEG/issues/24) in [keshikan/DSEG](https://github.com/keshikan/DSEG)
+2. 🗣 Commented on [#275](https://github.com/fontsource/fontsource/issues/275) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#272](https://github.com/fontsource/fontsource/issues/272) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#279](https://github.com/fontsource/fontsource/pull/279) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Closed issue [#275](https://github.com/fontsource/fontsource/issues/275) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
