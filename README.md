@@ -17,10 +17,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
-2. 🎉 Merged PR [#273](https://github.com/fontsource/fontsource/pull/273) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#277](https://github.com/fontsource/fontsource/pull/277) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
-5. ❗️ Opened issue [#17](https://github.com/tokotype/PlusJakartaSans/issues/17) in [tokotype/PlusJakartaSans](https://github.com/tokotype/PlusJakartaSans)
+2. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
+3. 🎉 Merged PR [#273](https://github.com/fontsource/fontsource/pull/273) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#277](https://github.com/fontsource/fontsource/pull/277) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
