@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
+1. 🎉 Merged PR [#280](https://github.com/fontsource/fontsource/pull/280) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 2. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
 3. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
-4. 🎉 Merged PR [#273](https://github.com/fontsource/fontsource/pull/273) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#277](https://github.com/fontsource/fontsource/pull/277) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
+5. 🎉 Merged PR [#273](https://github.com/fontsource/fontsource/pull/273) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
