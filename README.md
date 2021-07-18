@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
-2. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
-3. 🎉 Merged PR [#280](https://github.com/fontsource/fontsource/pull/280) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
-5. 🗣 Commented on [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
+1. 🎉 Merged PR [#79](https://github.com/fontsource/google-font-metadata/pull/79) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. 🎉 Merged PR [#78](https://github.com/fontsource/google-font-metadata/pull/78) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. 🎉 Merged PR [#84](https://github.com/fontsource/google-font-metadata/pull/84) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+4. 🎉 Merged PR [#281](https://github.com/fontsource/fontsource/pull/281) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Closed issue [#114](https://github.com/rubjo/victor-mono/issues/114) in [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
