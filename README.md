@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#287](https://github.com/fontsource/fontsource/issues/287) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#287](https://github.com/fontsource/fontsource/issues/287) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#250](https://github.com/fontsource/fontsource/issues/250) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#282](https://github.com/fontsource/fontsource/issues/282) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#285](https://github.com/fontsource/fontsource/pull/285) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#286](https://github.com/fontsource/fontsource/issues/286) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#17](https://github.com/tokotype/PlusJakartaSans/issues/17) in [tokotype/PlusJakartaSans](https://github.com/tokotype/PlusJakartaSans)
+3. 🗣 Commented on [#45](https://github.com/bBoxType/FiraGO/issues/45) in [bBoxType/FiraGO](https://github.com/bBoxType/FiraGO)
+4. ❗️ Closed issue [#287](https://github.com/fontsource/fontsource/issues/287) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#287](https://github.com/fontsource/fontsource/issues/287) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
