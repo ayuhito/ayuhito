@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#1386](https://github.com/isomorphic-git/isomorphic-git/issues/1386) in [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
-3. 🗣 Commented on [#286](https://github.com/fontsource/fontsource/issues/286) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#17](https://github.com/tokotype/PlusJakartaSans/issues/17) in [tokotype/PlusJakartaSans](https://github.com/tokotype/PlusJakartaSans)
-5. 🗣 Commented on [#45](https://github.com/bBoxType/FiraGO/issues/45) in [bBoxType/FiraGO](https://github.com/bBoxType/FiraGO)
+1. 🗣 Commented on [#18312](https://github.com/jsdelivr/jsdelivr/issues/18312) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
+2. 🗣 Commented on [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#1386](https://github.com/isomorphic-git/isomorphic-git/issues/1386) in [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
+4. 🗣 Commented on [#286](https://github.com/fontsource/fontsource/issues/286) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#17](https://github.com/tokotype/PlusJakartaSans/issues/17) in [tokotype/PlusJakartaSans](https://github.com/tokotype/PlusJakartaSans)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
