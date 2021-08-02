@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#289](https://github.com/fontsource/fontsource/issues/289) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#18312](https://github.com/jsdelivr/jsdelivr/issues/18312) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
-3. 🗣 Commented on [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#1386](https://github.com/isomorphic-git/isomorphic-git/issues/1386) in [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
-5. 🗣 Commented on [#286](https://github.com/fontsource/fontsource/issues/286) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#18312](https://github.com/jsdelivr/jsdelivr/issues/18312) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
+2. 🗣 Commented on [#289](https://github.com/fontsource/fontsource/issues/289) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#18312](https://github.com/jsdelivr/jsdelivr/issues/18312) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
+4. 🗣 Commented on [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#1386](https://github.com/isomorphic-git/isomorphic-git/issues/1386) in [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
