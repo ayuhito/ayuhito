@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#18312](https://github.com/jsdelivr/jsdelivr/issues/18312) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
-2. 🗣 Commented on [#289](https://github.com/fontsource/fontsource/issues/289) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#18312](https://github.com/jsdelivr/jsdelivr/issues/18312) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
-4. 🗣 Commented on [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#1386](https://github.com/isomorphic-git/isomorphic-git/issues/1386) in [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
+1. ❗️ Opened issue [#293](https://github.com/fontsource/fontsource/issues/293) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#290](https://github.com/fontsource/fontsource/issues/290) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#292](https://github.com/fontsource/fontsource/pull/292) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Closed issue [#290](https://github.com/fontsource/fontsource/issues/290) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#292](https://github.com/fontsource/fontsource/pull/292) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
