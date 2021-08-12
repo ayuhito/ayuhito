@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#298](https://github.com/fontsource/fontsource/pull/298) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#1619](https://github.com/sveltejs/kit/issues/1619) in [sveltejs/kit](https://github.com/sveltejs/kit)
-3. 🗣 Commented on [#297](https://github.com/fontsource/fontsource/issues/297) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#296](https://github.com/fontsource/fontsource/pull/296) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#295](https://github.com/fontsource/fontsource/pull/295) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#1495](https://github.com/nestjs/swagger/issues/1495) in [nestjs/swagger](https://github.com/nestjs/swagger)
+2. 🎉 Merged PR [#298](https://github.com/fontsource/fontsource/pull/298) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#1619](https://github.com/sveltejs/kit/issues/1619) in [sveltejs/kit](https://github.com/sveltejs/kit)
+4. 🗣 Commented on [#297](https://github.com/fontsource/fontsource/issues/297) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#296](https://github.com/fontsource/fontsource/pull/296) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
