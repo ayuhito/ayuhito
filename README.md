@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#81](https://github.com/madmalik/mononoki/issues/81) in [madmalik/mononoki](https://github.com/madmalik/mononoki)
-2. 🎉 Merged PR [#305](https://github.com/fontsource/fontsource/pull/305) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#304](https://github.com/fontsource/fontsource/pull/304) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#304](https://github.com/fontsource/fontsource/pull/304) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#302](https://github.com/fontsource/fontsource/pull/302) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❌ Closed PR [#306](https://github.com/fontsource/fontsource/pull/306) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#81](https://github.com/madmalik/mononoki/issues/81) in [madmalik/mononoki](https://github.com/madmalik/mononoki)
+3. 🎉 Merged PR [#305](https://github.com/fontsource/fontsource/pull/305) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#304](https://github.com/fontsource/fontsource/pull/304) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#304](https://github.com/fontsource/fontsource/pull/304) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
