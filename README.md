@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#314](https://github.com/fontsource/fontsource/issues/314) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#311](https://github.com/fontsource/fontsource/issues/311) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#311](https://github.com/fontsource/fontsource/issues/311) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#6346](https://github.com/simple-icons/simple-icons/issues/6346) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#12](https://github.com/DecliningLotus/next-lotus-starter/issues/12) in [DecliningLotus/next-lotus-starter](https://github.com/DecliningLotus/next-lotus-starter)
+1. 🗣 Commented on [#315](https://github.com/fontsource/fontsource/issues/315) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#314](https://github.com/fontsource/fontsource/issues/314) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#311](https://github.com/fontsource/fontsource/issues/311) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#311](https://github.com/fontsource/fontsource/issues/311) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#6346](https://github.com/simple-icons/simple-icons/issues/6346) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
