@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#6443](https://github.com/simple-icons/simple-icons/issues/6443) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Opened issue [#6442](https://github.com/simple-icons/simple-icons/issues/6442) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 🗣 Commented on [#322](https://github.com/fontsource/fontsource/issues/322) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#319](https://github.com/fontsource/fontsource/pull/319) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+2. ❗️ Opened issue [#6443](https://github.com/simple-icons/simple-icons/issues/6443) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Opened issue [#6442](https://github.com/simple-icons/simple-icons/issues/6442) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#322](https://github.com/fontsource/fontsource/issues/322) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#319](https://github.com/fontsource/fontsource/pull/319) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
