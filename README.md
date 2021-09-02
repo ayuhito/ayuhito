@@ -10,7 +10,7 @@
 
 ### 📦 Sideprojects
 
-- Life Tracker App [WIP] - Lifestyle tracking mobile application that uses geolocation analysis to predict activities.
+- Redoria [WIP] - A modern community management/forum software embracing Jamstack from the ground up.
 
 ### ⚡ Recent Activity
 
@@ -73,6 +73,7 @@
 <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=cloudflare&logoColor=white" />
 <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-DB1F305F?style=flat-square&logo=mariadb&logoColor=white" />
