@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#243](https://github.com/fontsource/fontsource/issues/243) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#245](https://github.com/fontsource/fontsource/pull/245) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#243](https://github.com/fontsource/fontsource/issues/243) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#245](https://github.com/fontsource/fontsource/pull/245) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+2. 🗣 Commented on [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+3. 🗣 Commented on [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+4. 🗣 Commented on [#322](https://github.com/fontsource/fontsource/issues/322) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
