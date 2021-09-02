@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
-2. 🗣 Commented on [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
-3. 🗣 Commented on [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
-4. 🗣 Commented on [#322](https://github.com/fontsource/fontsource/issues/322) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#84](https://github.com/lydell/eslint-plugin-simple-import-sort/issues/84) in [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort)
+1. 🎉 Merged PR [#330](https://github.com/fontsource/fontsource/pull/330) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❌ Closed PR [#323](https://github.com/fontsource/fontsource/pull/323) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❌ Closed PR [#327](https://github.com/fontsource/fontsource/pull/327) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❌ Closed PR [#326](https://github.com/fontsource/fontsource/pull/326) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❌ Closed PR [#328](https://github.com/fontsource/fontsource/pull/328) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
