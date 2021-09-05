@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#145](https://github.com/deepkit/deepkit-framework/issues/145) in [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework)
-2. ❗️ Opened issue [#145](https://github.com/deepkit/deepkit-framework/issues/145) in [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework)
-3. 🎉 Merged PR [#330](https://github.com/fontsource/fontsource/pull/330) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❌ Closed PR [#323](https://github.com/fontsource/fontsource/pull/323) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❌ Closed PR [#327](https://github.com/fontsource/fontsource/pull/327) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#332](https://github.com/fontsource/fontsource/issues/332) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#145](https://github.com/deepkit/deepkit-framework/issues/145) in [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework)
+3. ❗️ Opened issue [#145](https://github.com/deepkit/deepkit-framework/issues/145) in [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework)
+4. 🎉 Merged PR [#330](https://github.com/fontsource/fontsource/pull/330) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❌ Closed PR [#323](https://github.com/fontsource/fontsource/pull/323) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
