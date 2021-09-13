@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#145](https://github.com/deepkit/deepkit-framework/issues/145) in [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework)
-2. 🗣 Commented on [#322](https://github.com/fontsource/fontsource/issues/322) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Closed issue [#322](https://github.com/fontsource/fontsource/issues/322) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#333](https://github.com/fontsource/fontsource/pull/333) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#333](https://github.com/fontsource/fontsource/pull/333) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#2430](https://github.com/chakra-ui/chakra-ui/issues/2430) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+2. 🗣 Commented on [#145](https://github.com/deepkit/deepkit-framework/issues/145) in [deepkit/deepkit-framework](https://github.com/deepkit/deepkit-framework)
+3. 🗣 Commented on [#322](https://github.com/fontsource/fontsource/issues/322) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Closed issue [#322](https://github.com/fontsource/fontsource/issues/322) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#333](https://github.com/fontsource/fontsource/pull/333) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
