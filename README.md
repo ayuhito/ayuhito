@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#131](https://github.com/majodev/google-webfonts-helper/issues/131) in [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper)
-2. ❗️ Closed issue [#228](https://github.com/fontsource/fontsource/issues/228) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#228](https://github.com/fontsource/fontsource/issues/228) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#351](https://github.com/fontsource/fontsource/issues/351) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#350](https://github.com/fontsource/fontsource/pull/350) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#353](https://github.com/fontsource/fontsource/issues/353) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#353](https://github.com/fontsource/fontsource/issues/353) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#131](https://github.com/majodev/google-webfonts-helper/issues/131) in [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper)
+4. ❗️ Closed issue [#228](https://github.com/fontsource/fontsource/issues/228) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#228](https://github.com/fontsource/fontsource/issues/228) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
