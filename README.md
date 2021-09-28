@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#356](https://github.com/fontsource/fontsource/issues/356) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
-3. ❗️ Opened issue [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
-4. 🗣 Commented on [#353](https://github.com/fontsource/fontsource/issues/353) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
+2. 🗣 Commented on [#356](https://github.com/fontsource/fontsource/issues/356) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
+4. ❗️ Opened issue [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
 5. 🗣 Commented on [#353](https://github.com/fontsource/fontsource/issues/353) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
