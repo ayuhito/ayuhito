@@ -85,4 +85,5 @@
 ### 📫 Contact
 
 - Email: declininglotus@gmail.com
+- Twitter: [@ayuhitoo](https://twitter.com/ayuhitoo)
 - Discord: Lotus#1234
