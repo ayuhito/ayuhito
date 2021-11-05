@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#59](https://github.com/ms-studio/karmilla/issues/59) in [ms-studio/karmilla](https://github.com/ms-studio/karmilla)
-2. 🗣 Commented on [#59](https://github.com/ms-studio/karmilla/issues/59) in [ms-studio/karmilla](https://github.com/ms-studio/karmilla)
-3. 🗣 Commented on [#353](https://github.com/fontsource/fontsource/issues/353) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#387](https://github.com/fontsource/fontsource/pull/387) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#353](https://github.com/fontsource/fontsource/issues/353) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Opened issue [#388](https://github.com/fontsource/fontsource/issues/388) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#59](https://github.com/ms-studio/karmilla/issues/59) in [ms-studio/karmilla](https://github.com/ms-studio/karmilla)
+4. 🗣 Commented on [#59](https://github.com/ms-studio/karmilla/issues/59) in [ms-studio/karmilla](https://github.com/ms-studio/karmilla)
+5. 🗣 Commented on [#353](https://github.com/fontsource/fontsource/issues/353) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
