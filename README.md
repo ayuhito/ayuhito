@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/fontsource/download-stat-aggregator/pull/11) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
-2. 💪 Opened PR [#11](https://github.com/fontsource/download-stat-aggregator/pull/11) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
-3. 🗣 Commented on [#416](https://github.com/fontsource/fontsource/issues/416) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#416](https://github.com/fontsource/fontsource/pull/416) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#415](https://github.com/fontsource/fontsource/issues/415) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#420](https://github.com/fontsource/fontsource/pull/420) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#420](https://github.com/fontsource/fontsource/pull/420) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#11](https://github.com/fontsource/download-stat-aggregator/pull/11) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+4. 💪 Opened PR [#11](https://github.com/fontsource/download-stat-aggregator/pull/11) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+5. 🗣 Commented on [#416](https://github.com/fontsource/fontsource/issues/416) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
