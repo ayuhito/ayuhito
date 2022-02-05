@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#421](https://github.com/fontsource/fontsource/pull/421) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#371](https://github.com/fontsource/fontsource/issues/371) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#401](https://github.com/fontsource/fontsource/pull/401) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#234](https://github.com/fontsource/fontsource/issues/234) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#421](https://github.com/fontsource/fontsource/pull/421) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#421](https://github.com/fontsource/fontsource/pull/421) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#371](https://github.com/fontsource/fontsource/issues/371) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#401](https://github.com/fontsource/fontsource/pull/401) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 5. 🗣 Commented on [#234](https://github.com/fontsource/fontsource/issues/234) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
