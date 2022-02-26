@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#440](https://github.com/fontsource/fontsource/issues/440) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#441](https://github.com/fontsource/fontsource/issues/441) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#441](https://github.com/fontsource/fontsource/issues/441) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#442](https://github.com/fontsource/fontsource/issues/442) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#1619](https://github.com/sveltejs/kit/issues/1619) in [sveltejs/kit](https://github.com/sveltejs/kit)
+1. ❌ Closed PR [#440](https://github.com/fontsource/fontsource/pull/440) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#440](https://github.com/fontsource/fontsource/issues/440) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#441](https://github.com/fontsource/fontsource/issues/441) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#441](https://github.com/fontsource/fontsource/issues/441) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#442](https://github.com/fontsource/fontsource/issues/442) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
