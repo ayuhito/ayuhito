@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#244](https://github.com/hashicorp/next-mdx-remote/issues/244) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
-2. 💪 Opened PR [#445](https://github.com/fontsource/fontsource/pull/445) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#444](https://github.com/fontsource/fontsource/pull/444) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#444](https://github.com/fontsource/fontsource/pull/444) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❌ Closed PR [#440](https://github.com/fontsource/fontsource/pull/440) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#446](https://github.com/fontsource/fontsource/issues/446) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#244](https://github.com/hashicorp/next-mdx-remote/issues/244) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
+3. 💪 Opened PR [#445](https://github.com/fontsource/fontsource/pull/445) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#444](https://github.com/fontsource/fontsource/pull/444) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#444](https://github.com/fontsource/fontsource/pull/444) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
