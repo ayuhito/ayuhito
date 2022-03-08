@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#447](https://github.com/fontsource/fontsource/issues/447) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#445](https://github.com/fontsource/fontsource/pull/445) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Opened issue [#74](https://github.com/codecks-io/react-sticky-box/issues/74) in [codecks-io/react-sticky-box](https://github.com/codecks-io/react-sticky-box)
-4. ❗️ Closed issue [#446](https://github.com/fontsource/fontsource/issues/446) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#446](https://github.com/fontsource/fontsource/issues/446) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#448](https://github.com/fontsource/fontsource/pull/448) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#448](https://github.com/fontsource/fontsource/pull/448) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#447](https://github.com/fontsource/fontsource/issues/447) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#445](https://github.com/fontsource/fontsource/pull/445) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#74](https://github.com/codecks-io/react-sticky-box/issues/74) in [codecks-io/react-sticky-box](https://github.com/codecks-io/react-sticky-box)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
