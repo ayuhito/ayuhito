@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#74](https://github.com/codecks-io/react-sticky-box/issues/74) in [codecks-io/react-sticky-box](https://github.com/codecks-io/react-sticky-box)
-2. ❗️ Closed issue [#446](https://github.com/fontsource/fontsource/issues/446) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Opened issue [#446](https://github.com/fontsource/fontsource/issues/446) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#244](https://github.com/hashicorp/next-mdx-remote/issues/244) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
-5. 💪 Opened PR [#445](https://github.com/fontsource/fontsource/pull/445) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Closed issue [#447](https://github.com/fontsource/fontsource/issues/447) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#445](https://github.com/fontsource/fontsource/pull/445) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Opened issue [#74](https://github.com/codecks-io/react-sticky-box/issues/74) in [codecks-io/react-sticky-box](https://github.com/codecks-io/react-sticky-box)
+4. ❗️ Closed issue [#446](https://github.com/fontsource/fontsource/issues/446) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#446](https://github.com/fontsource/fontsource/issues/446) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
