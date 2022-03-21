@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#457](https://github.com/fontsource/fontsource/issues/457) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#457](https://github.com/fontsource/fontsource/issues/457) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#460](https://github.com/fontsource/fontsource/pull/460) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#460](https://github.com/fontsource/fontsource/pull/460) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#457](https://github.com/fontsource/fontsource/issues/457) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#457](https://github.com/fontsource/fontsource/issues/457) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#460](https://github.com/fontsource/fontsource/pull/460) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
