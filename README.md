@@ -17,10 +17,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#466](https://github.com/fontsource/fontsource/issues/466) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#467](https://github.com/fontsource/fontsource/pull/467) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#467](https://github.com/fontsource/fontsource/pull/467) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#466](https://github.com/fontsource/fontsource/issues/466) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#465](https://github.com/fontsource/fontsource/pull/465) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#466](https://github.com/fontsource/fontsource/issues/466) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#467](https://github.com/fontsource/fontsource/pull/467) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#467](https://github.com/fontsource/fontsource/pull/467) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#466](https://github.com/fontsource/fontsource/issues/466) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
