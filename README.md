@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#471](https://github.com/fontsource/fontsource/issues/471) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#472](https://github.com/fontsource/fontsource/pull/472) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#472](https://github.com/fontsource/fontsource/pull/472) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#90](https://github.com/devongovett/dprint-node/issues/90) in [devongovett/dprint-node](https://github.com/devongovett/dprint-node)
-5. ❗️ Opened issue [#2](https://github.com/fontsource/mass-publish/issues/2) in [fontsource/mass-publish](https://github.com/fontsource/mass-publish)
+1. 🎉 Merged PR [#473](https://github.com/fontsource/fontsource/pull/473) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#473](https://github.com/fontsource/fontsource/pull/473) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#471](https://github.com/fontsource/fontsource/issues/471) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#472](https://github.com/fontsource/fontsource/pull/472) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#472](https://github.com/fontsource/fontsource/pull/472) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
