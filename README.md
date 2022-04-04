@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#456](https://github.com/fontsource/fontsource/issues/456) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#456](https://github.com/fontsource/fontsource/issues/456) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#474](https://github.com/fontsource/fontsource/pull/474) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#474](https://github.com/fontsource/fontsource/pull/474) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#470](https://github.com/fontsource/fontsource/issues/470) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#502](https://github.com/Paperback-iOS/app/issues/502) in [Paperback-iOS/app](https://github.com/Paperback-iOS/app)
+2. ❗️ Closed issue [#456](https://github.com/fontsource/fontsource/issues/456) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#456](https://github.com/fontsource/fontsource/issues/456) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#474](https://github.com/fontsource/fontsource/pull/474) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#474](https://github.com/fontsource/fontsource/pull/474) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
