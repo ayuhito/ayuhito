@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
-2. 🗣 Commented on [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
-3. 🗣 Commented on [#5784](https://github.com/chakra-ui/chakra-ui/issues/5784) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-4. ❗️ Closed issue [#475](https://github.com/fontsource/fontsource/issues/475) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#475](https://github.com/fontsource/fontsource/issues/475) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Closed issue [#476](https://github.com/fontsource/fontsource/issues/476) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#476](https://github.com/fontsource/fontsource/issues/476) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
+4. 🗣 Commented on [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
+5. 🗣 Commented on [#5784](https://github.com/chakra-ui/chakra-ui/issues/5784) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
