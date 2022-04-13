@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#766](https://github.com/Pelican-Elegant/elegant/issues/766) in [Pelican-Elegant/elegant](https://github.com/Pelican-Elegant/elegant)
-2. 🗣 Commented on [#2835](https://github.com/MichMich/MagicMirror/issues/2835) in [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)
-3. ❗️ Closed issue [#476](https://github.com/fontsource/fontsource/issues/476) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#476](https://github.com/fontsource/fontsource/issues/476) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#3870](https://github.com/google/fonts/issues/3870) in [google/fonts](https://github.com/google/fonts)
+1. 🗣 Commented on [#477](https://github.com/fontsource/fontsource/issues/477) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#477](https://github.com/fontsource/fontsource/pull/477) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#766](https://github.com/Pelican-Elegant/elegant/issues/766) in [Pelican-Elegant/elegant](https://github.com/Pelican-Elegant/elegant)
+4. 🗣 Commented on [#2835](https://github.com/MichMich/MagicMirror/issues/2835) in [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)
+5. ❗️ Closed issue [#476](https://github.com/fontsource/fontsource/issues/476) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
