@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#479](https://github.com/fontsource/fontsource/issues/479) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#476](https://github.com/fontsource/fontsource/issues/476) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#477](https://github.com/fontsource/fontsource/issues/477) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#477](https://github.com/fontsource/fontsource/pull/477) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#766](https://github.com/Pelican-Elegant/elegant/issues/766) in [Pelican-Elegant/elegant](https://github.com/Pelican-Elegant/elegant)
+1. 🎉 Merged PR [#480](https://github.com/fontsource/fontsource/pull/480) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Closed issue [#479](https://github.com/fontsource/fontsource/issues/479) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#480](https://github.com/fontsource/fontsource/pull/480) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#479](https://github.com/fontsource/fontsource/issues/479) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#476](https://github.com/fontsource/fontsource/issues/476) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
