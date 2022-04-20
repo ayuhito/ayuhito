@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#396](https://github.com/enquirer/enquirer/issues/396) in [enquirer/enquirer](https://github.com/enquirer/enquirer)
-2. ❗️ Opened issue [#482](https://github.com/fontsource/fontsource/issues/482) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#481](https://github.com/fontsource/fontsource/pull/481) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#481](https://github.com/fontsource/fontsource/pull/481) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#480](https://github.com/fontsource/fontsource/pull/480) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
+2. ❗️ Opened issue [#396](https://github.com/enquirer/enquirer/issues/396) in [enquirer/enquirer](https://github.com/enquirer/enquirer)
+3. ❗️ Opened issue [#482](https://github.com/fontsource/fontsource/issues/482) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#481](https://github.com/fontsource/fontsource/pull/481) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#481](https://github.com/fontsource/fontsource/pull/481) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
