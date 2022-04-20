@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
-2. ❗️ Opened issue [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
-3. ❗️ Opened issue [#396](https://github.com/enquirer/enquirer/issues/396) in [enquirer/enquirer](https://github.com/enquirer/enquirer)
-4. ❗️ Opened issue [#482](https://github.com/fontsource/fontsource/issues/482) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#481](https://github.com/fontsource/fontsource/pull/481) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#483](https://github.com/fontsource/fontsource/pull/483) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#483](https://github.com/fontsource/fontsource/issues/483) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
+4. ❗️ Opened issue [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
+5. ❗️ Opened issue [#396](https://github.com/enquirer/enquirer/issues/396) in [enquirer/enquirer](https://github.com/enquirer/enquirer)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
