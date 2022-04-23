@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
-2. ❗️ Opened issue [#1178](https://github.com/vitest-dev/vitest/issues/1178) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-3. 🎉 Merged PR [#483](https://github.com/fontsource/fontsource/pull/483) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#483](https://github.com/fontsource/fontsource/issues/483) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
+1. ❗️ Opened issue [#484](https://github.com/fontsource/fontsource/issues/484) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
+3. ❗️ Opened issue [#1178](https://github.com/vitest-dev/vitest/issues/1178) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+4. 🎉 Merged PR [#483](https://github.com/fontsource/fontsource/pull/483) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#483](https://github.com/fontsource/fontsource/issues/483) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
