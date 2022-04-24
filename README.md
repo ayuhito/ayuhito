@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-📝 I'm Lotus. A student, developer and an avid business enthusiast.
+📝 I'm Ayu. A student, developer and an avid business enthusiast.
 
 ### 🗄 Featured Open Source Projects
 
