@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#83](https://github.com/fontsource/fontsource/issues/83) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#7821](https://github.com/vitejs/vite/issues/7821) in [vitejs/vite](https://github.com/vitejs/vite)
 2. 🗣 Commented on [#83](https://github.com/fontsource/fontsource/issues/83) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#234](https://github.com/fontsource/fontsource/issues/234) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#83](https://github.com/fontsource/fontsource/issues/83) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#5795](https://github.com/chakra-ui/chakra-ui/issues/5795) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
+3. 🗣 Commented on [#83](https://github.com/fontsource/fontsource/issues/83) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#234](https://github.com/fontsource/fontsource/issues/234) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#83](https://github.com/fontsource/fontsource/issues/83) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
