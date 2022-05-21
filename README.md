@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#495](https://github.com/fontsource/fontsource/issues/495) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#495](https://github.com/fontsource/fontsource/issues/495) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#633](https://github.com/chakra-ui/chakra-ui-docs/pull/633) in [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs)
+2. 🗣 Commented on [#498](https://github.com/fontsource/fontsource/issues/498) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 3. 🗣 Commented on [#495](https://github.com/fontsource/fontsource/issues/495) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#495](https://github.com/fontsource/fontsource/issues/495) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#494](https://github.com/fontsource/fontsource/issues/494) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Closed issue [#495](https://github.com/fontsource/fontsource/issues/495) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#495](https://github.com/fontsource/fontsource/issues/495) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
