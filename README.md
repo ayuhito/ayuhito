@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#496](https://github.com/fontsource/fontsource/issues/496) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#633](https://github.com/chakra-ui/chakra-ui-docs/pull/633) in [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs)
-3. 🗣 Commented on [#498](https://github.com/fontsource/fontsource/issues/498) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#495](https://github.com/fontsource/fontsource/issues/495) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#495](https://github.com/fontsource/fontsource/issues/495) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Closed issue [#500](https://github.com/fontsource/fontsource/issues/500) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#500](https://github.com/fontsource/fontsource/issues/500) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Opened issue [#501](https://github.com/fontsource/fontsource/issues/501) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#496](https://github.com/fontsource/fontsource/issues/496) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#633](https://github.com/chakra-ui/chakra-ui-docs/pull/633) in [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
