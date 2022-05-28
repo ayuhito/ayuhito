@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#500](https://github.com/fontsource/fontsource/issues/500) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#500](https://github.com/fontsource/fontsource/issues/500) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Opened issue [#501](https://github.com/fontsource/fontsource/issues/501) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#496](https://github.com/fontsource/fontsource/issues/496) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#633](https://github.com/chakra-ui/chakra-ui-docs/pull/633) in [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs)
+1. ❗️ Closed issue [#502](https://github.com/fontsource/fontsource/issues/502) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#502](https://github.com/fontsource/fontsource/issues/502) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#500](https://github.com/fontsource/fontsource/issues/500) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#500](https://github.com/fontsource/fontsource/issues/500) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#501](https://github.com/fontsource/fontsource/issues/501) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
