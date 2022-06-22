@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#351](https://github.com/fontsource/fontsource/issues/351) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#503](https://github.com/fontsource/fontsource/issues/503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❌ Closed PR [#15](https://github.com/ayuhito/next-lotus-starter/pull/15) in [ayuhito/next-lotus-starter](https://github.com/ayuhito/next-lotus-starter)
-4. ❗️ Closed issue [#102](https://github.com/fontsource/google-font-metadata/issues/102) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. 🗣 Commented on [#102](https://github.com/fontsource/google-font-metadata/issues/102) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+1. 🗣 Commented on [#506](https://github.com/fontsource/fontsource/issues/506) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#506](https://github.com/fontsource/fontsource/pull/506) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#351](https://github.com/fontsource/fontsource/issues/351) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Closed issue [#503](https://github.com/fontsource/fontsource/issues/503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❌ Closed PR [#15](https://github.com/ayuhito/next-lotus-starter/pull/15) in [ayuhito/next-lotus-starter](https://github.com/ayuhito/next-lotus-starter)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
