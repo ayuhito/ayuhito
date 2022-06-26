@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#9](https://github.com/privatenumber/pkgroll/issues/9) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
-2. 🗣 Commented on [#494](https://github.com/fontsource/fontsource/issues/494) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#508](https://github.com/fontsource/fontsource/issues/508) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❌ Closed PR [#103](https://github.com/fontsource/google-font-metadata/pull/103) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. ❌ Closed PR [#505](https://github.com/fontsource/fontsource/pull/505) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#509](https://github.com/fontsource/fontsource/issues/509) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#509](https://github.com/fontsource/fontsource/pull/509) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#251](https://github.com/fontsource/fontsource/issues/251) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#9](https://github.com/privatenumber/pkgroll/issues/9) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+5. 🗣 Commented on [#494](https://github.com/fontsource/fontsource/issues/494) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
