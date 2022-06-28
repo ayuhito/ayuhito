@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#172](https://github.com/Swatinem/rollup-plugin-dts/issues/172) in [Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts)
-2. 🗣 Commented on [#509](https://github.com/fontsource/fontsource/issues/509) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#509](https://github.com/fontsource/fontsource/pull/509) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Closed issue [#251](https://github.com/fontsource/fontsource/issues/251) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#9](https://github.com/privatenumber/pkgroll/issues/9) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+1. 🗣 Commented on [#499](https://github.com/fontsource/fontsource/issues/499) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#172](https://github.com/Swatinem/rollup-plugin-dts/issues/172) in [Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts)
+3. 🗣 Commented on [#509](https://github.com/fontsource/fontsource/issues/509) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#509](https://github.com/fontsource/fontsource/pull/509) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Closed issue [#251](https://github.com/fontsource/fontsource/issues/251) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
