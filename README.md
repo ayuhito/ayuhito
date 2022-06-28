@@ -16,11 +16,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#11](https://github.com/privatenumber/pkgroll/issues/11) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
-2. ❗️ Opened issue [#10](https://github.com/privatenumber/pkgroll/issues/10) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
-3. 🗣 Commented on [#499](https://github.com/fontsource/fontsource/issues/499) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#172](https://github.com/Swatinem/rollup-plugin-dts/issues/172) in [Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts)
-5. 🗣 Commented on [#509](https://github.com/fontsource/fontsource/issues/509) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#12](https://github.com/privatenumber/pkgroll/issues/12) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+2. ❗️ Opened issue [#11](https://github.com/privatenumber/pkgroll/issues/11) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+3. ❗️ Opened issue [#10](https://github.com/privatenumber/pkgroll/issues/10) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+4. 🗣 Commented on [#499](https://github.com/fontsource/fontsource/issues/499) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#172](https://github.com/Swatinem/rollup-plugin-dts/issues/172) in [Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts)
 <!--END_SECTION:activity-->
 
 ### 🔭 Things I'm Familiar With
