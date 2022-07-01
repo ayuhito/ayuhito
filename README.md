@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#15](https://github.com/privatenumber/pkgroll/issues/15) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
-2. 💪 Opened PR [#14](https://github.com/privatenumber/pkgroll/pull/14) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
-3. 🗣 Commented on [#499](https://github.com/fontsource/fontsource/issues/499) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#33](https://github.com/privatenumber/eslint-config/issues/33) in [privatenumber/eslint-config](https://github.com/privatenumber/eslint-config)
+1. 🗣 Commented on [#14](https://github.com/privatenumber/pkgroll/issues/14) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+2. ❗️ Opened issue [#15](https://github.com/privatenumber/pkgroll/issues/15) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+3. 💪 Opened PR [#14](https://github.com/privatenumber/pkgroll/pull/14) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+4. 🗣 Commented on [#499](https://github.com/fontsource/fontsource/issues/499) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 5. 🗣 Commented on [#33](https://github.com/privatenumber/eslint-config/issues/33) in [privatenumber/eslint-config](https://github.com/privatenumber/eslint-config)
 <!--END_SECTION:activity-->
 
