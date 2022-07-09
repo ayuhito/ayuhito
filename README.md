@@ -8,10 +8,6 @@
 - [Google Font Metadata](https://github.com/fontsource/google-font-metadata) - A metadata generator that fetches and parses the Google Fonts API.
 - [Next Lotus Starter](https://github.com/DecliningLotus/next-lotus-starter) - Personal Next.js starter template to streamline the creation of new projects.
 
-### 📦 Sideprojects
-
-- Redoria [WIP] - A modern community management/forum software embracing Jamstack from the ground up.
-
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
@@ -22,65 +18,6 @@
 4. 💪 Opened PR [#104](https://github.com/fontsource/google-font-metadata/pull/104) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 5. 🗣 Commented on [#14](https://github.com/privatenumber/pkgroll/issues/14) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
 <!--END_SECTION:activity-->
-
-### 🔭 Things I'm Familiar With
-
-#### Languages
-
-<p>
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node-dot-js&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-</p>
-
-#### Frameworks
-
-<p>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white">
-<img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white">
-<img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-<img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-#### Tools
-
-<p>
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-<img alt="PostCSS" src="https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white" />
-<img alt="Chocolatey" src="https://img.shields.io/badge/-Chocolatey-80B5E3?style=flat-square&logo=chocolatey&logoColor=white" />
-<img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
-<img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-</p>
-
-#### Deployment
-
-<p>
-<img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="CircleCI" src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-<img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=cloudflare&logoColor=white" />
-<img alt="NGINX" src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-DB1F305F?style=flat-square&logo=mariadb&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
 
 ### 📫 Contact
 
