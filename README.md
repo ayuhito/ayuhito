@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#101](https://github.com/fontsource/google-font-metadata/pull/101) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. ❗️ Closed issue [#105](https://github.com/fontsource/google-font-metadata/issues/105) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-3. 🎉 Merged PR [#104](https://github.com/fontsource/google-font-metadata/pull/104) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. 🗣 Commented on [#12](https://github.com/privatenumber/pkgroll/issues/12) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
-5. 🎉 Merged PR [#1](https://github.com/ayuhito/eslint-config/pull/1) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
+1. 🎉 Merged PR [#512](https://github.com/fontsource/fontsource/pull/512) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Closed issue [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❌ Closed PR [#101](https://github.com/fontsource/google-font-metadata/pull/101) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+4. ❗️ Closed issue [#105](https://github.com/fontsource/google-font-metadata/issues/105) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. 🎉 Merged PR [#104](https://github.com/fontsource/google-font-metadata/pull/104) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
