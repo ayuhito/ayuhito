@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#514](https://github.com/fontsource/fontsource/issues/514) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#27](https://github.com/ionic-team/ionicons-site/pull/27) in [ionic-team/ionicons-site](https://github.com/ionic-team/ionicons-site)
-3. 💪 Opened PR [#1084](https://github.com/ionic-team/ionicons/pull/1084) in [ionic-team/ionicons](https://github.com/ionic-team/ionicons)
-4. 💪 Opened PR [#1158](https://github.com/feathericons/feather/pull/1158) in [feathericons/feather](https://github.com/feathericons/feather)
-5. 🎉 Merged PR [#512](https://github.com/fontsource/fontsource/pull/512) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#513](https://github.com/fontsource/fontsource/issues/513) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#514](https://github.com/fontsource/fontsource/issues/514) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#27](https://github.com/ionic-team/ionicons-site/pull/27) in [ionic-team/ionicons-site](https://github.com/ionic-team/ionicons-site)
+4. 💪 Opened PR [#1084](https://github.com/ionic-team/ionicons/pull/1084) in [ionic-team/ionicons](https://github.com/ionic-team/ionicons)
+5. 💪 Opened PR [#1158](https://github.com/feathericons/feather/pull/1158) in [feathericons/feather](https://github.com/feathericons/feather)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
