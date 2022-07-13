@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1084](https://github.com/ionic-team/ionicons/pull/1084) in [ionic-team/ionicons](https://github.com/ionic-team/ionicons)
-2. 💪 Opened PR [#1158](https://github.com/feathericons/feather/pull/1158) in [feathericons/feather](https://github.com/feathericons/feather)
-3. 🎉 Merged PR [#512](https://github.com/fontsource/fontsource/pull/512) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Closed issue [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❌ Closed PR [#101](https://github.com/fontsource/google-font-metadata/pull/101) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+1. 💪 Opened PR [#27](https://github.com/ionic-team/ionicons-site/pull/27) in [ionic-team/ionicons-site](https://github.com/ionic-team/ionicons-site)
+2. 💪 Opened PR [#1084](https://github.com/ionic-team/ionicons/pull/1084) in [ionic-team/ionicons](https://github.com/ionic-team/ionicons)
+3. 💪 Opened PR [#1158](https://github.com/feathericons/feather/pull/1158) in [feathericons/feather](https://github.com/feathericons/feather)
+4. 🎉 Merged PR [#512](https://github.com/fontsource/fontsource/pull/512) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Closed issue [#244](https://github.com/fontsource/fontsource/issues/244) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
