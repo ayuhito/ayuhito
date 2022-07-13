@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#265](https://github.com/tabler/tabler-icons/pull/265) in [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
-2. 🗣 Commented on [#513](https://github.com/fontsource/fontsource/issues/513) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#514](https://github.com/fontsource/fontsource/issues/514) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#27](https://github.com/ionic-team/ionicons-site/pull/27) in [ionic-team/ionicons-site](https://github.com/ionic-team/ionicons-site)
-5. 💪 Opened PR [#1084](https://github.com/ionic-team/ionicons/pull/1084) in [ionic-team/ionicons](https://github.com/ionic-team/ionicons)
+1. ❗️ Opened issue [#1033](https://github.com/pure-css/pure/issues/1033) in [pure-css/pure](https://github.com/pure-css/pure)
+2. 💪 Opened PR [#265](https://github.com/tabler/tabler-icons/pull/265) in [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
+3. 🗣 Commented on [#513](https://github.com/fontsource/fontsource/issues/513) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#514](https://github.com/fontsource/fontsource/issues/514) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#27](https://github.com/ionic-team/ionicons-site/pull/27) in [ionic-team/ionicons-site](https://github.com/ionic-team/ionicons-site)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
