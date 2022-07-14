@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1033](https://github.com/pure-css/pure/issues/1033) in [pure-css/pure](https://github.com/pure-css/pure)
-2. ❗️ Opened issue [#1033](https://github.com/pure-css/pure/issues/1033) in [pure-css/pure](https://github.com/pure-css/pure)
-3. 💪 Opened PR [#265](https://github.com/tabler/tabler-icons/pull/265) in [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
-4. 🗣 Commented on [#513](https://github.com/fontsource/fontsource/issues/513) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#514](https://github.com/fontsource/fontsource/issues/514) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#1034](https://github.com/pure-css/pure/pull/1034) in [pure-css/pure](https://github.com/pure-css/pure)
+2. 🗣 Commented on [#1033](https://github.com/pure-css/pure/issues/1033) in [pure-css/pure](https://github.com/pure-css/pure)
+3. ❗️ Opened issue [#1033](https://github.com/pure-css/pure/issues/1033) in [pure-css/pure](https://github.com/pure-css/pure)
+4. 💪 Opened PR [#265](https://github.com/tabler/tabler-icons/pull/265) in [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
+5. 🗣 Commented on [#513](https://github.com/fontsource/fontsource/issues/513) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
