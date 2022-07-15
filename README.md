@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#388](https://github.com/fontsource/fontsource/issues/388) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#1034](https://github.com/pure-css/pure/pull/1034) in [pure-css/pure](https://github.com/pure-css/pure)
-3. 🗣 Commented on [#1033](https://github.com/pure-css/pure/issues/1033) in [pure-css/pure](https://github.com/pure-css/pure)
-4. ❗️ Opened issue [#1033](https://github.com/pure-css/pure/issues/1033) in [pure-css/pure](https://github.com/pure-css/pure)
-5. 💪 Opened PR [#265](https://github.com/tabler/tabler-icons/pull/265) in [tabler/tabler-icons](https://github.com/tabler/tabler-icons)
+1. 💪 Opened PR [#260](https://github.com/nolimits4web/swiper-website/pull/260) in [nolimits4web/swiper-website](https://github.com/nolimits4web/swiper-website)
+2. 💪 Opened PR [#1165](https://github.com/tabler/tabler/pull/1165) in [tabler/tabler](https://github.com/tabler/tabler)
+3. 🗣 Commented on [#388](https://github.com/fontsource/fontsource/issues/388) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#1034](https://github.com/pure-css/pure/pull/1034) in [pure-css/pure](https://github.com/pure-css/pure)
+5. 🗣 Commented on [#1033](https://github.com/pure-css/pure/issues/1033) in [pure-css/pure](https://github.com/pure-css/pure)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
