@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#519](https://github.com/fontsource/fontsource/issues/519) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#515](https://github.com/fontsource/fontsource/pull/515) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#515](https://github.com/fontsource/fontsource/pull/515) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#1165](https://github.com/tabler/tabler/issues/1165) in [tabler/tabler](https://github.com/tabler/tabler)
-5. 💪 Opened PR [#260](https://github.com/nolimits4web/swiper-website/pull/260) in [nolimits4web/swiper-website](https://github.com/nolimits4web/swiper-website)
+1. 🗣 Commented on [#492](https://github.com/fontsource/fontsource/issues/492) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#519](https://github.com/fontsource/fontsource/issues/519) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#515](https://github.com/fontsource/fontsource/pull/515) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#515](https://github.com/fontsource/fontsource/pull/515) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#1165](https://github.com/tabler/tabler/issues/1165) in [tabler/tabler](https://github.com/tabler/tabler)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
