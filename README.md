@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#742](https://github.com/effector/effector/pull/742) in [effector/effector](https://github.com/effector/effector)
-2. 💪 Opened PR [#78](https://github.com/dayjs/dayjs-website/pull/78) in [dayjs/dayjs-website](https://github.com/dayjs/dayjs-website)
-3. 💪 Opened PR [#3048](https://github.com/alpinejs/alpine/pull/3048) in [alpinejs/alpine](https://github.com/alpinejs/alpine)
-4. 🗣 Commented on [#492](https://github.com/fontsource/fontsource/issues/492) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#492](https://github.com/fontsource/fontsource/issues/492) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#1799](https://github.com/floating-ui/floating-ui/pull/1799) in [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)
+2. 💪 Opened PR [#853](https://github.com/pqina/filepond/pull/853) in [pqina/filepond](https://github.com/pqina/filepond)
+3. 💪 Opened PR [#742](https://github.com/effector/effector/pull/742) in [effector/effector](https://github.com/effector/effector)
+4. 💪 Opened PR [#78](https://github.com/dayjs/dayjs-website/pull/78) in [dayjs/dayjs-website](https://github.com/dayjs/dayjs-website)
+5. 💪 Opened PR [#3048](https://github.com/alpinejs/alpine/pull/3048) in [alpinejs/alpine](https://github.com/alpinejs/alpine)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
