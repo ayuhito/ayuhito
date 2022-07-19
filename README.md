@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#213](https://github.com/nk-o/jarallax/pull/213) in [nk-o/jarallax](https://github.com/nk-o/jarallax)
-2. 💪 Opened PR [#1799](https://github.com/floating-ui/floating-ui/pull/1799) in [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)
-3. 💪 Opened PR [#853](https://github.com/pqina/filepond/pull/853) in [pqina/filepond](https://github.com/pqina/filepond)
-4. 💪 Opened PR [#742](https://github.com/effector/effector/pull/742) in [effector/effector](https://github.com/effector/effector)
-5. 💪 Opened PR [#78](https://github.com/dayjs/dayjs-website/pull/78) in [dayjs/dayjs-website](https://github.com/dayjs/dayjs-website)
+1. ❗️ Opened issue [#521](https://github.com/fontsource/fontsource/issues/521) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Opened issue [#520](https://github.com/fontsource/fontsource/issues/520) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#213](https://github.com/nk-o/jarallax/pull/213) in [nk-o/jarallax](https://github.com/nk-o/jarallax)
+4. 💪 Opened PR [#1799](https://github.com/floating-ui/floating-ui/pull/1799) in [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)
+5. 💪 Opened PR [#853](https://github.com/pqina/filepond/pull/853) in [pqina/filepond](https://github.com/pqina/filepond)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
