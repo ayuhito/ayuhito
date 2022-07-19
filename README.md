@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/ayuhito/eslint-config/pull/2) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
-2. 💪 Opened PR [#20](https://github.com/privatenumber/pkgroll/pull/20) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
-3. ❗️ Opened issue [#521](https://github.com/fontsource/fontsource/issues/521) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#520](https://github.com/fontsource/fontsource/issues/520) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#213](https://github.com/nk-o/jarallax/pull/213) in [nk-o/jarallax](https://github.com/nk-o/jarallax)
+1. 🎉 Merged PR [#3](https://github.com/ayuhito/eslint-config/pull/3) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
+2. 🎉 Merged PR [#2](https://github.com/ayuhito/eslint-config/pull/2) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
+3. 💪 Opened PR [#20](https://github.com/privatenumber/pkgroll/pull/20) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+4. ❗️ Opened issue [#521](https://github.com/fontsource/fontsource/issues/521) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#520](https://github.com/fontsource/fontsource/issues/520) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
