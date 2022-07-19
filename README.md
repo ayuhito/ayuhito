@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#521](https://github.com/fontsource/fontsource/issues/521) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Opened issue [#520](https://github.com/fontsource/fontsource/issues/520) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#213](https://github.com/nk-o/jarallax/pull/213) in [nk-o/jarallax](https://github.com/nk-o/jarallax)
-4. 💪 Opened PR [#1799](https://github.com/floating-ui/floating-ui/pull/1799) in [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)
-5. 💪 Opened PR [#853](https://github.com/pqina/filepond/pull/853) in [pqina/filepond](https://github.com/pqina/filepond)
+1. 🎉 Merged PR [#2](https://github.com/ayuhito/eslint-config/pull/2) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
+2. 💪 Opened PR [#20](https://github.com/privatenumber/pkgroll/pull/20) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+3. ❗️ Opened issue [#521](https://github.com/fontsource/fontsource/issues/521) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#520](https://github.com/fontsource/fontsource/issues/520) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#213](https://github.com/nk-o/jarallax/pull/213) in [nk-o/jarallax](https://github.com/nk-o/jarallax)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
