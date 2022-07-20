@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#518](https://github.com/fontsource/fontsource/issues/518) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#3](https://github.com/ayuhito/eslint-config/pull/3) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
-3. 🎉 Merged PR [#2](https://github.com/ayuhito/eslint-config/pull/2) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
-4. 💪 Opened PR [#20](https://github.com/privatenumber/pkgroll/pull/20) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
-5. ❗️ Opened issue [#521](https://github.com/fontsource/fontsource/issues/521) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#163](https://github.com/jsdelivr/globalping/issues/163) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+2. 🗣 Commented on [#518](https://github.com/fontsource/fontsource/issues/518) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#3](https://github.com/ayuhito/eslint-config/pull/3) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
+4. 🎉 Merged PR [#2](https://github.com/ayuhito/eslint-config/pull/2) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
+5. 💪 Opened PR [#20](https://github.com/privatenumber/pkgroll/pull/20) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
