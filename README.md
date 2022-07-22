@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#81](https://github.com/jsdelivr/globalping-probe/pull/81) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
-2. 🎉 Merged PR [#524](https://github.com/fontsource/fontsource/pull/524) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#524](https://github.com/fontsource/fontsource/pull/524) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#6732](https://github.com/Shopify/polaris/issues/6732) in [Shopify/polaris](https://github.com/Shopify/polaris)
-5. 🗣 Commented on [#523](https://github.com/fontsource/fontsource/issues/523) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#525](https://github.com/fontsource/fontsource/issues/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#81](https://github.com/jsdelivr/globalping-probe/pull/81) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
+3. 🎉 Merged PR [#524](https://github.com/fontsource/fontsource/pull/524) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#524](https://github.com/fontsource/fontsource/pull/524) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#6732](https://github.com/Shopify/polaris/issues/6732) in [Shopify/polaris](https://github.com/Shopify/polaris)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
