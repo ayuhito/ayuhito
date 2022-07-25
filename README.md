@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#525](https://github.com/fontsource/fontsource/pull/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#525](https://github.com/fontsource/fontsource/issues/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#445](https://github.com/jsdelivr/www.jsdelivr.com/pull/445) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+2. ❌ Closed PR [#525](https://github.com/fontsource/fontsource/pull/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 3. 🗣 Commented on [#525](https://github.com/fontsource/fontsource/issues/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#81](https://github.com/jsdelivr/globalping-probe/pull/81) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
-5. 🎉 Merged PR [#524](https://github.com/fontsource/fontsource/pull/524) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#525](https://github.com/fontsource/fontsource/issues/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#81](https://github.com/jsdelivr/globalping-probe/pull/81) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
