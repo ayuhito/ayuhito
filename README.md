@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#445](https://github.com/jsdelivr/www.jsdelivr.com/issues/445) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+1. ❗️ Closed issue [#514](https://github.com/fontsource/fontsource/issues/514) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 2. 🗣 Commented on [#445](https://github.com/jsdelivr/www.jsdelivr.com/issues/445) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
-3. 💪 Opened PR [#445](https://github.com/jsdelivr/www.jsdelivr.com/pull/445) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
-4. ❌ Closed PR [#525](https://github.com/fontsource/fontsource/pull/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#525](https://github.com/fontsource/fontsource/issues/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#445](https://github.com/jsdelivr/www.jsdelivr.com/issues/445) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+4. 💪 Opened PR [#445](https://github.com/jsdelivr/www.jsdelivr.com/pull/445) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+5. ❌ Closed PR [#525](https://github.com/fontsource/fontsource/pull/525) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
