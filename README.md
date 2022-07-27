@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#446](https://github.com/jsdelivr/www.jsdelivr.com/issues/446) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+1. ❗️ Opened issue [#1](https://github.com/ayuhito/unplugin-jsdelivr/issues/1) in [ayuhito/unplugin-jsdelivr](https://github.com/ayuhito/unplugin-jsdelivr)
 2. 🗣 Commented on [#446](https://github.com/jsdelivr/www.jsdelivr.com/issues/446) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
-3. 💪 Opened PR [#446](https://github.com/jsdelivr/www.jsdelivr.com/pull/446) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
-4. 🗣 Commented on [#527](https://github.com/fontsource/fontsource/issues/527) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#527](https://github.com/fontsource/fontsource/pull/527) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#446](https://github.com/jsdelivr/www.jsdelivr.com/issues/446) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+4. 💪 Opened PR [#446](https://github.com/jsdelivr/www.jsdelivr.com/pull/446) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+5. 🗣 Commented on [#527](https://github.com/fontsource/fontsource/issues/527) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
