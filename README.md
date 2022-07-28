@@ -13,10 +13,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#163](https://github.com/jsdelivr/globalping/issues/163) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-2. 🗣 Commented on [#179](https://github.com/jsdelivr/globalping/issues/179) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-3. 🗣 Commented on [#182](https://github.com/jsdelivr/globalping/issues/182) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-4. 💪 Opened PR [#182](https://github.com/jsdelivr/globalping/pull/182) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-5. 🗣 Commented on [#180](https://github.com/jsdelivr/globalping/issues/180) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+2. 🗣 Commented on [#163](https://github.com/jsdelivr/globalping/issues/163) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+3. 🗣 Commented on [#179](https://github.com/jsdelivr/globalping/issues/179) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+4. 🗣 Commented on [#182](https://github.com/jsdelivr/globalping/issues/182) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+5. 💪 Opened PR [#182](https://github.com/jsdelivr/globalping/pull/182) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
