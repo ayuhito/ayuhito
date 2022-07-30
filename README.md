@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#182](https://github.com/jsdelivr/globalping/issues/182) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-2. ❗️ Opened issue [#18424](https://github.com/jsdelivr/jsdelivr/issues/18424) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
-3. 💪 Opened PR [#92](https://github.com/jsdelivr/globalping-probe/pull/92) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
-4. 🗣 Commented on [#179](https://github.com/jsdelivr/globalping/issues/179) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-5. 🗣 Commented on [#179](https://github.com/jsdelivr/globalping/issues/179) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+1. 🗣 Commented on [#528](https://github.com/fontsource/fontsource/issues/528) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#528](https://github.com/fontsource/fontsource/pull/528) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#182](https://github.com/jsdelivr/globalping/issues/182) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+4. ❗️ Opened issue [#18424](https://github.com/jsdelivr/jsdelivr/issues/18424) in [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr)
+5. 💪 Opened PR [#92](https://github.com/jsdelivr/globalping-probe/pull/92) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
