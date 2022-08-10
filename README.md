@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#541](https://github.com/fontsource/fontsource/issues/541) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#541](https://github.com/fontsource/fontsource/issues/541) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#543](https://github.com/fontsource/fontsource/pull/543) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#543](https://github.com/fontsource/fontsource/pull/543) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#542](https://github.com/fontsource/fontsource/pull/542) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#30](https://github.com/jsdelivr/globalping-probe/issues/30) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
+2. 🗣 Commented on [#541](https://github.com/fontsource/fontsource/issues/541) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#541](https://github.com/fontsource/fontsource/issues/541) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#543](https://github.com/fontsource/fontsource/pull/543) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#543](https://github.com/fontsource/fontsource/pull/543) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
