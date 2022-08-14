@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#95](https://github.com/jsdelivr/globalping-probe/issues/95) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
-2. 🗣 Commented on [#546](https://github.com/fontsource/fontsource/issues/546) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#1326](https://github.com/google/material-design-icons/issues/1326) in [google/material-design-icons](https://github.com/google/material-design-icons)
+1. ❗️ Opened issue [#548](https://github.com/fontsource/fontsource/issues/548) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❗️ Opened issue [#547](https://github.com/fontsource/fontsource/issues/547) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Opened issue [#95](https://github.com/jsdelivr/globalping-probe/issues/95) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
 4. 🗣 Commented on [#546](https://github.com/fontsource/fontsource/issues/546) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#30](https://github.com/jsdelivr/globalping-probe/issues/30) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
+5. 🗣 Commented on [#1326](https://github.com/google/material-design-icons/issues/1326) in [google/material-design-icons](https://github.com/google/material-design-icons)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
