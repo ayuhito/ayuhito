@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#163](https://github.com/jsdelivr/globalping/issues/163) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-2. ❗️ Opened issue [#548](https://github.com/fontsource/fontsource/issues/548) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Opened issue [#547](https://github.com/fontsource/fontsource/issues/547) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#95](https://github.com/jsdelivr/globalping-probe/issues/95) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
-5. 🗣 Commented on [#546](https://github.com/fontsource/fontsource/issues/546) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#98](https://github.com/jsdelivr/globalping-probe/issues/98) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
+2. 🗣 Commented on [#163](https://github.com/jsdelivr/globalping/issues/163) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+3. ❗️ Opened issue [#548](https://github.com/fontsource/fontsource/issues/548) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#547](https://github.com/fontsource/fontsource/issues/547) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#95](https://github.com/jsdelivr/globalping-probe/issues/95) in [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
