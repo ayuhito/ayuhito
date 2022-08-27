@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#559](https://github.com/fontsource/fontsource/issues/559) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#559](https://github.com/fontsource/fontsource/issues/559) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#108](https://github.com/fontsource/google-font-metadata/pull/108) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. 💪 Opened PR [#108](https://github.com/fontsource/google-font-metadata/pull/108) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+1. ❗️ Opened issue [#1568](https://github.com/slackapi/bolt-js/issues/1568) in [slackapi/bolt-js](https://github.com/slackapi/bolt-js)
+2. ❗️ Closed issue [#559](https://github.com/fontsource/fontsource/issues/559) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#559](https://github.com/fontsource/fontsource/issues/559) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#156](https://github.com/fontsource/fontsource/issues/156) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#108](https://github.com/fontsource/google-font-metadata/pull/108) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
