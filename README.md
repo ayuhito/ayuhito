@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#547](https://github.com/fontsource/fontsource/issues/547) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Closed issue [#1568](https://github.com/slackapi/bolt-js/issues/1568) in [slackapi/bolt-js](https://github.com/slackapi/bolt-js)
-3. 🗣 Commented on [#1568](https://github.com/slackapi/bolt-js/issues/1568) in [slackapi/bolt-js](https://github.com/slackapi/bolt-js)
-4. ❗️ Opened issue [#1568](https://github.com/slackapi/bolt-js/issues/1568) in [slackapi/bolt-js](https://github.com/slackapi/bolt-js)
-5. ❗️ Closed issue [#559](https://github.com/fontsource/fontsource/issues/559) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#562](https://github.com/fontsource/fontsource/issues/562) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#547](https://github.com/fontsource/fontsource/issues/547) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#1568](https://github.com/slackapi/bolt-js/issues/1568) in [slackapi/bolt-js](https://github.com/slackapi/bolt-js)
+4. 🗣 Commented on [#1568](https://github.com/slackapi/bolt-js/issues/1568) in [slackapi/bolt-js](https://github.com/slackapi/bolt-js)
+5. ❗️ Opened issue [#1568](https://github.com/slackapi/bolt-js/issues/1568) in [slackapi/bolt-js](https://github.com/slackapi/bolt-js)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
