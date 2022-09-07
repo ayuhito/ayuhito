@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#1153](https://github.com/remix-run/remix/issues/1153) in [remix-run/remix](https://github.com/remix-run/remix)
-5. 🗣 Commented on [#121](https://github.com/fontsource/fontsource/issues/121) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#566](https://github.com/fontsource/fontsource/pull/566) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#566](https://github.com/fontsource/fontsource/pull/566) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Closed issue [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
