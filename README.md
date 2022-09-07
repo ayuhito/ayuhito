@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#1153](https://github.com/remix-run/remix/issues/1153) in [remix-run/remix](https://github.com/remix-run/remix)
-3. 🗣 Commented on [#121](https://github.com/fontsource/fontsource/issues/121) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#208](https://github.com/jsdelivr/globalping/issues/208) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-5. 🗣 Commented on [#202](https://github.com/jsdelivr/globalping/issues/202) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+1. ❗️ Closed issue [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#1153](https://github.com/remix-run/remix/issues/1153) in [remix-run/remix](https://github.com/remix-run/remix)
+5. 🗣 Commented on [#121](https://github.com/fontsource/fontsource/issues/121) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
