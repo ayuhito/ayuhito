@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#567](https://github.com/fontsource/fontsource/issues/567) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#299](https://github.com/Figma-Linux/figma-linux/issues/299) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
 2. 🗣 Commented on [#567](https://github.com/fontsource/fontsource/issues/567) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#566](https://github.com/fontsource/fontsource/pull/566) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#566](https://github.com/fontsource/fontsource/pull/566) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Closed issue [#565](https://github.com/fontsource/fontsource/issues/565) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#567](https://github.com/fontsource/fontsource/issues/567) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#566](https://github.com/fontsource/fontsource/pull/566) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#566](https://github.com/fontsource/fontsource/pull/566) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
