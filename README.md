@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#568](https://github.com/fontsource/fontsource/pull/568) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#568](https://github.com/fontsource/fontsource/pull/568) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#299](https://github.com/Figma-Linux/figma-linux/issues/299) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
-4. 🗣 Commented on [#567](https://github.com/fontsource/fontsource/issues/567) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#567](https://github.com/fontsource/fontsource/issues/567) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#560](https://github.com/fontsource/fontsource/pull/560) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#560](https://github.com/fontsource/fontsource/issues/560) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#455](https://github.com/jsdelivr/www.jsdelivr.com/pull/455) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+4. 🎉 Merged PR [#568](https://github.com/fontsource/fontsource/pull/568) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#568](https://github.com/fontsource/fontsource/pull/568) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
