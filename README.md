@@ -23,4 +23,4 @@
 
 - Email: hello@ayuhito.com
 - Twitter: [@ayuhitoo](https://twitter.com/ayuhitoo)
-- Discord: Lotus#1234
+- Discord: Ayu#1234
