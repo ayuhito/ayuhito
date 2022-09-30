@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#5139](https://github.com/reactjs/reactjs.org/issues/5139) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
-2. ❗️ Reopened issue [#578](https://github.com/fontsource/fontsource/issues/578) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#578](https://github.com/fontsource/fontsource/issues/578) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#459](https://github.com/jsdelivr/www.jsdelivr.com/pull/459) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+2. ❗️ Opened issue [#5139](https://github.com/reactjs/reactjs.org/issues/5139) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
+3. ❗️ Reopened issue [#578](https://github.com/fontsource/fontsource/issues/578) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 4. 🗣 Commented on [#578](https://github.com/fontsource/fontsource/issues/578) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#109](https://github.com/fontsource/google-font-metadata/issues/109) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. 🗣 Commented on [#578](https://github.com/fontsource/fontsource/issues/578) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
