@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6454](https://github.com/react-bootstrap/react-bootstrap/pull/6454) in [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
-2. 💪 Opened PR [#459](https://github.com/jsdelivr/www.jsdelivr.com/pull/459) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
-3. ❗️ Opened issue [#5139](https://github.com/reactjs/reactjs.org/issues/5139) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
-4. ❗️ Reopened issue [#578](https://github.com/fontsource/fontsource/issues/578) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#578](https://github.com/fontsource/fontsource/issues/578) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#110](https://github.com/fontsource/google-font-metadata/pull/110) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. 💪 Opened PR [#110](https://github.com/fontsource/google-font-metadata/pull/110) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. 💪 Opened PR [#6454](https://github.com/react-bootstrap/react-bootstrap/pull/6454) in [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+4. 💪 Opened PR [#459](https://github.com/jsdelivr/www.jsdelivr.com/pull/459) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
+5. ❗️ Opened issue [#5139](https://github.com/reactjs/reactjs.org/issues/5139) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
