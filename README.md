@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#110](https://github.com/fontsource/google-font-metadata/pull/110) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. 💪 Opened PR [#110](https://github.com/fontsource/google-font-metadata/pull/110) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-3. 💪 Opened PR [#6454](https://github.com/react-bootstrap/react-bootstrap/pull/6454) in [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
-4. 💪 Opened PR [#459](https://github.com/jsdelivr/www.jsdelivr.com/pull/459) in [jsdelivr/www.jsdelivr.com](https://github.com/jsdelivr/www.jsdelivr.com)
-5. ❗️ Opened issue [#5139](https://github.com/reactjs/reactjs.org/issues/5139) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
+1. 🎉 Merged PR [#580](https://github.com/fontsource/fontsource/pull/580) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#580](https://github.com/fontsource/fontsource/pull/580) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#579](https://github.com/fontsource/fontsource/pull/579) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#110](https://github.com/fontsource/google-font-metadata/pull/110) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. 💪 Opened PR [#110](https://github.com/fontsource/google-font-metadata/pull/110) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
