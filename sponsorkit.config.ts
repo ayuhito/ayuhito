@@ -1,6 +1,12 @@
 import { defineConfig, presets } from 'sponsorkit'
 
 export default defineConfig({
+	// Providers configs
+	github: {
+		login: 'ayuhito',
+		type: 'user',
+	},
+
 	tiers: [
 		{
 			title: 'Donors',
