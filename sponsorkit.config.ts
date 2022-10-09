@@ -7,6 +7,7 @@ export default defineConfig({
 		type: 'user',
 	},
 
+	formats: ['svg', 'png'],
 	tiers: [
 		{
 			title: 'Donors',
