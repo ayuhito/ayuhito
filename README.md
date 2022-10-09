@@ -24,3 +24,12 @@
 - Email: hello@ayuhito.com
 - Twitter: [@ayuhitoo](https://twitter.com/ayuhitoo)
 - Discord: Ayu#1234
+
+
+### :sparkling_heart: Sponsors
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/ayuhito/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/ayuhito/sponsors.svg'/>
+  </a>
+</p>
