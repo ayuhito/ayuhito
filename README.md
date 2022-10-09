@@ -29,7 +29,7 @@
 ### :sparkling_heart: Sponsors
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/ayuhito/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/ayuhito/sponsors.svg'/>
+  <a href="https://cdn.jsdelivr.net/gh/ayuhito/ayuhito/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/ayuhito/ayuhito/sponsors.svg'/>
   </a>
 </p>
