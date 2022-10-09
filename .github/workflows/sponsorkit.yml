@@ -23,7 +23,7 @@ jobs:
       - name: Update sponsors
         run: npm run build
         env:
-          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSOR_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: ayuhito
 
       - name: Commit
