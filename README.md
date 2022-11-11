@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#600](https://github.com/fontsource/fontsource/pull/600) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#600](https://github.com/fontsource/fontsource/pull/600) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#599](https://github.com/fontsource/fontsource/pull/599) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#599](https://github.com/fontsource/fontsource/pull/599) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#598](https://github.com/fontsource/fontsource/pull/598) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#167](https://github.com/superfly/litefs/issues/167) in [superfly/litefs](https://github.com/superfly/litefs)
+2. 🎉 Merged PR [#600](https://github.com/fontsource/fontsource/pull/600) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#600](https://github.com/fontsource/fontsource/pull/600) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#599](https://github.com/fontsource/fontsource/pull/599) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#599](https://github.com/fontsource/fontsource/pull/599) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
