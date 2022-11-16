@@ -13,9 +13,9 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#173](https://github.com/superfly/litefs/issues/173) in [superfly/litefs](https://github.com/superfly/litefs)
-2. 🗣 Commented on [#493](https://github.com/fontsource/fontsource/issues/493) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Opened issue [#173](https://github.com/superfly/litefs/issues/173) in [superfly/litefs](https://github.com/superfly/litefs)
-4. 🗣 Commented on [#167](https://github.com/superfly/litefs/issues/167) in [superfly/litefs](https://github.com/superfly/litefs)
+2. 🗣 Commented on [#173](https://github.com/superfly/litefs/issues/173) in [superfly/litefs](https://github.com/superfly/litefs)
+3. 🗣 Commented on [#493](https://github.com/fontsource/fontsource/issues/493) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Opened issue [#173](https://github.com/superfly/litefs/issues/173) in [superfly/litefs](https://github.com/superfly/litefs)
 5. 🗣 Commented on [#167](https://github.com/superfly/litefs/issues/167) in [superfly/litefs](https://github.com/superfly/litefs)
 <!--END_SECTION:activity-->
 
