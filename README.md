@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2983](https://github.com/mantinedev/mantine/issues/2983) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
-2. 🗣 Commented on [#173](https://github.com/superfly/litefs/issues/173) in [superfly/litefs](https://github.com/superfly/litefs)
-3. 🗣 Commented on [#173](https://github.com/superfly/litefs/issues/173) in [superfly/litefs](https://github.com/superfly/litefs)
-4. 🗣 Commented on [#173](https://github.com/superfly/litefs/issues/173) in [superfly/litefs](https://github.com/superfly/litefs)
-5. 🗣 Commented on [#493](https://github.com/fontsource/fontsource/issues/493) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Closed issue [#2983](https://github.com/mantinedev/mantine/issues/2983) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+2. 🗣 Commented on [#2983](https://github.com/mantinedev/mantine/issues/2983) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+3. 🎉 Merged PR [#602](https://github.com/fontsource/fontsource/pull/602) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#602](https://github.com/fontsource/fontsource/pull/602) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. ❗️ Opened issue [#2983](https://github.com/mantinedev/mantine/issues/2983) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
