@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
-2. ❗️ Closed issue [#2983](https://github.com/mantinedev/mantine/issues/2983) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
-3. 🗣 Commented on [#2983](https://github.com/mantinedev/mantine/issues/2983) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
-4. 🎉 Merged PR [#602](https://github.com/fontsource/fontsource/pull/602) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#602](https://github.com/fontsource/fontsource/pull/602) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
+2. 🗣 Commented on [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
+3. ❗️ Opened issue [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
+4. ❗️ Closed issue [#2983](https://github.com/mantinedev/mantine/issues/2983) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+5. 🗣 Commented on [#2983](https://github.com/mantinedev/mantine/issues/2983) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
