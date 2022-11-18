@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#603](https://github.com/fontsource/fontsource/pull/603) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#603](https://github.com/fontsource/fontsource/pull/603) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
+1. 🗣 Commented on [#497](https://github.com/fontsource/fontsource/issues/497) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#603](https://github.com/fontsource/fontsource/pull/603) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#603](https://github.com/fontsource/fontsource/pull/603) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 4. 🗣 Commented on [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
-5. ❗️ Opened issue [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
+5. 🗣 Commented on [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
