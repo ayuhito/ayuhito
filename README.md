@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#608](https://github.com/fontsource/fontsource/pull/608) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#608](https://github.com/fontsource/fontsource/pull/608) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#604](https://github.com/fontsource/fontsource/issues/604) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#605](https://github.com/fontsource/fontsource/issues/605) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#5566](https://github.com/google/fonts/issues/5566) in [google/fonts](https://github.com/google/fonts)
+1. 🗣 Commented on [#3681](https://github.com/algolia/react-instantsearch/issues/3681) in [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch)
+2. 🎉 Merged PR [#608](https://github.com/fontsource/fontsource/pull/608) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#608](https://github.com/fontsource/fontsource/pull/608) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#604](https://github.com/fontsource/fontsource/issues/604) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#605](https://github.com/fontsource/fontsource/issues/605) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
