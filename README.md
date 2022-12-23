@@ -13,9 +13,9 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#616](https://github.com/fontsource/fontsource/issues/616) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#10](https://github.com/jsdelivr/ghost-jsdelivr-theme/issues/10) in [jsdelivr/ghost-jsdelivr-theme](https://github.com/jsdelivr/ghost-jsdelivr-theme)
-3. 💪 Opened PR [#258](https://github.com/jsdelivr/globalping/pull/258) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
-4. 🗣 Commented on [#588](https://github.com/fontsource/fontsource/issues/588) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#616](https://github.com/fontsource/fontsource/issues/616) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#10](https://github.com/jsdelivr/ghost-jsdelivr-theme/issues/10) in [jsdelivr/ghost-jsdelivr-theme](https://github.com/jsdelivr/ghost-jsdelivr-theme)
+4. 💪 Opened PR [#258](https://github.com/jsdelivr/globalping/pull/258) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
 5. 🗣 Commented on [#588](https://github.com/fontsource/fontsource/issues/588) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
