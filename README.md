@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#116](https://github.com/fontsource/google-font-metadata/issues/116) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. 🗣 Commented on [#616](https://github.com/fontsource/fontsource/issues/616) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#572](https://github.com/fontsource/fontsource/issues/572) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#116](https://github.com/fontsource/google-font-metadata/issues/116) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 3. 🗣 Commented on [#616](https://github.com/fontsource/fontsource/issues/616) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#10](https://github.com/jsdelivr/ghost-jsdelivr-theme/issues/10) in [jsdelivr/ghost-jsdelivr-theme](https://github.com/jsdelivr/ghost-jsdelivr-theme)
-5. 💪 Opened PR [#258](https://github.com/jsdelivr/globalping/pull/258) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+4. 🗣 Commented on [#616](https://github.com/fontsource/fontsource/issues/616) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#10](https://github.com/jsdelivr/ghost-jsdelivr-theme/issues/10) in [jsdelivr/ghost-jsdelivr-theme](https://github.com/jsdelivr/ghost-jsdelivr-theme)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
