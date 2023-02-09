@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#632](https://github.com/fontsource/fontsource/issues/632) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#632](https://github.com/fontsource/fontsource/issues/632) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#12](https://github.com/jsdelivr/globalping-cli/issues/12) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-4. 🗣 Commented on [#9](https://github.com/jsdelivr/globalping-cli/issues/9) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-5. 🗣 Commented on [#12](https://github.com/jsdelivr/globalping-cli/issues/12) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+1. 🗣 Commented on [#284](https://github.com/jsdelivr/globalping/issues/284) in [jsdelivr/globalping](https://github.com/jsdelivr/globalping)
+2. ❗️ Closed issue [#632](https://github.com/fontsource/fontsource/issues/632) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#632](https://github.com/fontsource/fontsource/issues/632) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#12](https://github.com/jsdelivr/globalping-cli/issues/12) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+5. 🗣 Commented on [#9](https://github.com/jsdelivr/globalping-cli/issues/9) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
