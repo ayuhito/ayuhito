@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#636](https://github.com/fontsource/fontsource/issues/636) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#20](https://github.com/jsdelivr/globalping-cli/pull/20) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-3. 💪 Opened PR [#20](https://github.com/jsdelivr/globalping-cli/pull/20) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-4. 🎉 Merged PR [#19](https://github.com/jsdelivr/globalping-cli/pull/19) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-5. 💪 Opened PR [#19](https://github.com/jsdelivr/globalping-cli/pull/19) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+1. 🗣 Commented on [#634](https://github.com/fontsource/fontsource/issues/634) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#636](https://github.com/fontsource/fontsource/issues/636) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#20](https://github.com/jsdelivr/globalping-cli/pull/20) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+4. 💪 Opened PR [#20](https://github.com/jsdelivr/globalping-cli/pull/20) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+5. 🎉 Merged PR [#19](https://github.com/jsdelivr/globalping-cli/pull/19) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
