@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#9](https://github.com/jsdelivr/globalping-cli/issues/9) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-2. 🎉 Merged PR [#23](https://github.com/jsdelivr/globalping-cli/pull/23) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-3. 🗣 Commented on [#23](https://github.com/jsdelivr/globalping-cli/issues/23) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-4. 💪 Opened PR [#23](https://github.com/jsdelivr/globalping-cli/pull/23) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-5. 🗣 Commented on [#7](https://github.com/jsdelivr/globalping-cli/issues/7) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+1. 🗣 Commented on [#4](https://github.com/jsdelivr/globalping-cli/issues/4) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+2. 🗣 Commented on [#7](https://github.com/jsdelivr/globalping-cli/issues/7) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+3. ❗️ Closed issue [#9](https://github.com/jsdelivr/globalping-cli/issues/9) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+4. 🎉 Merged PR [#23](https://github.com/jsdelivr/globalping-cli/pull/23) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+5. 🗣 Commented on [#23](https://github.com/jsdelivr/globalping-cli/issues/23) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
