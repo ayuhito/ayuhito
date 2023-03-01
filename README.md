@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#109](https://github.com/fontsource/google-font-metadata/issues/109) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. 🎉 Merged PR [#117](https://github.com/fontsource/google-font-metadata/pull/117) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-3. 💪 Opened PR [#117](https://github.com/fontsource/google-font-metadata/pull/117) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. 🎉 Merged PR [#645](https://github.com/fontsource/fontsource/pull/645) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#645](https://github.com/fontsource/fontsource/pull/645) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#118](https://github.com/fontsource/google-font-metadata/pull/118) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. 💪 Opened PR [#118](https://github.com/fontsource/google-font-metadata/pull/118) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. ❗️ Closed issue [#109](https://github.com/fontsource/google-font-metadata/issues/109) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+4. 🎉 Merged PR [#117](https://github.com/fontsource/google-font-metadata/pull/117) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. 💪 Opened PR [#117](https://github.com/fontsource/google-font-metadata/pull/117) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
