@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#572](https://github.com/fontsource/fontsource/issues/572) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#1](https://github.com/jsdelivr/upload-packagecloud/issues/1) in [jsdelivr/upload-packagecloud](https://github.com/jsdelivr/upload-packagecloud)
-3. 💪 Opened PR [#28](https://github.com/jsdelivr/globalping-cli/pull/28) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-4. 💪 Opened PR [#1](https://github.com/jsdelivr/upload-packagecloud/pull/1) in [jsdelivr/upload-packagecloud](https://github.com/jsdelivr/upload-packagecloud)
-5. 🎉 Merged PR [#651](https://github.com/fontsource/fontsource/pull/651) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#636](https://github.com/fontsource/fontsource/issues/636) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#572](https://github.com/fontsource/fontsource/issues/572) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#1](https://github.com/jsdelivr/upload-packagecloud/issues/1) in [jsdelivr/upload-packagecloud](https://github.com/jsdelivr/upload-packagecloud)
+4. 💪 Opened PR [#28](https://github.com/jsdelivr/globalping-cli/pull/28) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+5. 💪 Opened PR [#1](https://github.com/jsdelivr/upload-packagecloud/pull/1) in [jsdelivr/upload-packagecloud](https://github.com/jsdelivr/upload-packagecloud)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
