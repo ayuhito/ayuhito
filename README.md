@@ -15,8 +15,8 @@
 1. 🗣 Commented on [#434](https://github.com/fontsource/fontsource/issues/434) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 2. 🗣 Commented on [#434](https://github.com/fontsource/fontsource/issues/434) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 3. 🗣 Commented on [#434](https://github.com/fontsource/fontsource/issues/434) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#120](https://github.com/fontsource/google-font-metadata/issues/120) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. 🗣 Commented on [#628](https://github.com/fontsource/fontsource/issues/628) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#434](https://github.com/fontsource/fontsource/issues/434) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#120](https://github.com/fontsource/google-font-metadata/issues/120) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
