@@ -23,8 +23,6 @@
 
 - Email: hello@ayuhito.com
 - Twitter: [@ayuhitoo](https://twitter.com/ayuhitoo)
-- Discord: Ayu#1234
-
 
 ### :sparkling_heart: Sponsors
 
