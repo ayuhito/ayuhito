@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#312](https://github.com/superfly/litefs/issues/312) in [superfly/litefs](https://github.com/superfly/litefs)
-2. ❗️ Opened issue [#312](https://github.com/superfly/litefs/issues/312) in [superfly/litefs](https://github.com/superfly/litefs)
-3. ❗️ Closed issue [#503](https://github.com/fontsource/fontsource/issues/503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Reopened issue [#503](https://github.com/fontsource/fontsource/issues/503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#663](https://github.com/fontsource/fontsource/issues/663) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Closed issue [#120](https://github.com/fontsource/google-font-metadata/issues/120) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. 🎉 Merged PR [#121](https://github.com/fontsource/google-font-metadata/pull/121) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. 💪 Opened PR [#121](https://github.com/fontsource/google-font-metadata/pull/121) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+4. 🗣 Commented on [#312](https://github.com/superfly/litefs/issues/312) in [superfly/litefs](https://github.com/superfly/litefs)
+5. ❗️ Opened issue [#312](https://github.com/superfly/litefs/issues/312) in [superfly/litefs](https://github.com/superfly/litefs)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
