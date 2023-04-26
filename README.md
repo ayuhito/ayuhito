@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#503](https://github.com/fontsource/fontsource/issues/503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❗️ Reopened issue [#503](https://github.com/fontsource/fontsource/issues/503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#663](https://github.com/fontsource/fontsource/issues/663) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#434](https://github.com/fontsource/fontsource/issues/434) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Opened issue [#312](https://github.com/superfly/litefs/issues/312) in [superfly/litefs](https://github.com/superfly/litefs)
+2. ❗️ Closed issue [#503](https://github.com/fontsource/fontsource/issues/503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Reopened issue [#503](https://github.com/fontsource/fontsource/issues/503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#663](https://github.com/fontsource/fontsource/issues/663) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 5. 🗣 Commented on [#434](https://github.com/fontsource/fontsource/issues/434) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
