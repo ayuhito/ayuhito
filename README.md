@@ -12,11 +12,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#662](https://github.com/fontsource/fontsource/issues/662) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#662](https://github.com/fontsource/fontsource/issues/662) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. ❗️ Closed issue [#657](https://github.com/fontsource/fontsource/issues/657) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#657](https://github.com/fontsource/fontsource/issues/657) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#631](https://github.com/fontsource/fontsource/issues/631) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗️ Closed issue [#689](https://github.com/fontsource/fontsource/issues/689) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#689](https://github.com/fontsource/fontsource/issues/689) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❗️ Opened issue [#690](https://github.com/fontsource/fontsource/issues/690) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. ❗️ Closed issue [#662](https://github.com/fontsource/fontsource/issues/662) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#662](https://github.com/fontsource/fontsource/issues/662) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
