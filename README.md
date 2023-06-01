@@ -6,7 +6,6 @@
 
 - [Fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [Google Font Metadata](https://github.com/fontsource/google-font-metadata) - A metadata generator that fetches and parses the Google Fonts API.
-- [Next Lotus Starter](https://github.com/DecliningLotus/next-lotus-starter) - Personal Next.js starter template to streamline the creation of new projects.
 
 ### ⚡ Recent Activity
 
