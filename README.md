@@ -27,6 +27,6 @@
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/ayuhito/ayuhito/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/ayuhito/ayuhito/sponsors.svg'/>
+    <img src='https://raw.githubusercontent.com/ayuhito/ayuhito/master/sponsors.svg'/>
   </a>
 </p>
