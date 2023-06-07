@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#753](https://github.com/fontsource/fontsource/pull/753) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#753](https://github.com/fontsource/fontsource/pull/753) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#751](https://github.com/fontsource/fontsource/pull/751) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🔒 Closed issue [#4](https://github.com/ayuhito/eslint-config/issues/4) in [ayuhito/eslint-config](https://github.com/ayuhito/eslint-config)
-5. 💪 Opened PR [#751](https://github.com/fontsource/fontsource/pull/751) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#756](https://github.com/fontsource/fontsource/issues/756) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#756](https://github.com/fontsource/fontsource/pull/756) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#753](https://github.com/fontsource/fontsource/pull/753) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#753](https://github.com/fontsource/fontsource/pull/753) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#751](https://github.com/fontsource/fontsource/pull/751) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
