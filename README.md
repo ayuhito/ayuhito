@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#747](https://github.com/fontsource/fontsource/issues/747) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#773](https://github.com/fontsource/fontsource/issues/773) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#772](https://github.com/fontsource/fontsource/issues/772) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗ Opened issue [#3](https://github.com/jetpack-io/typeid-go/issues/3) in [jetpack-io/typeid-go](https://github.com/jetpack-io/typeid-go)
-5. 🗣 Commented on [#10](https://github.com/privatenumber/pkgroll/issues/10) in [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+1. 🔒 Closed issue [#772](https://github.com/fontsource/fontsource/issues/772) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#774](https://github.com/fontsource/fontsource/pull/774) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#774](https://github.com/fontsource/fontsource/issues/774) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#747](https://github.com/fontsource/fontsource/issues/747) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#773](https://github.com/fontsource/fontsource/issues/773) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
