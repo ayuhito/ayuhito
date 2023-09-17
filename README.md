@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#811](https://github.com/fontsource/fontsource/pull/811) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#810](https://github.com/fontsource/fontsource/pull/810) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#810](https://github.com/fontsource/fontsource/pull/810) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#809](https://github.com/fontsource/fontsource/pull/809) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#808](https://github.com/fontsource/fontsource/pull/808) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#813](https://github.com/fontsource/fontsource/pull/813) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#812](https://github.com/fontsource/fontsource/pull/812) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#812](https://github.com/fontsource/fontsource/pull/812) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#811](https://github.com/fontsource/fontsource/pull/811) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#810](https://github.com/fontsource/fontsource/pull/810) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
