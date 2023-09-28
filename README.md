@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#854](https://github.com/fontsource/fontsource/pull/854) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🔒 Closed issue [#771](https://github.com/fontsource/fontsource/issues/771) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#771](https://github.com/fontsource/fontsource/issues/771#issuecomment-1737938228) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🔒 Closed issue [#779](https://github.com/fontsource/fontsource/issues/779) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#779](https://github.com/fontsource/fontsource/issues/779#issuecomment-1737913236) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗ Opened issue [#4906](https://github.com/mantinedev/mantine/issues/4906) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+2. 💪 Opened PR [#854](https://github.com/fontsource/fontsource/pull/854) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🔒 Closed issue [#771](https://github.com/fontsource/fontsource/issues/771) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#771](https://github.com/fontsource/fontsource/issues/771#issuecomment-1737938228) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🔒 Closed issue [#779](https://github.com/fontsource/fontsource/issues/779) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
