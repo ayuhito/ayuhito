@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#75](https://github.com/jsdelivr/globalping-cli/pull/75#issuecomment-1763421404) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
-2. 🎉 Merged PR [#880](https://github.com/fontsource/fontsource/pull/880) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#879](https://github.com/fontsource/fontsource/pull/879) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#879](https://github.com/fontsource/fontsource/pull/879) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#878](https://github.com/fontsource/fontsource/pull/878) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#670](https://github.com/fontsource/fontsource/issues/670#issuecomment-1763456503) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#75](https://github.com/jsdelivr/globalping-cli/pull/75#issuecomment-1763421404) in [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli)
+3. 🎉 Merged PR [#880](https://github.com/fontsource/fontsource/pull/880) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#879](https://github.com/fontsource/fontsource/pull/879) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#879](https://github.com/fontsource/fontsource/pull/879) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
