@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#884](https://github.com/fontsource/fontsource/issues/884#issuecomment-1785055940) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#883](https://github.com/fontsource/fontsource/issues/883#issuecomment-1771569889) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#882](https://github.com/fontsource/fontsource/pull/882) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#881](https://github.com/fontsource/fontsource/pull/881) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#881](https://github.com/fontsource/fontsource/pull/881) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗ Opened issue [#60](https://github.com/jsdelivr/data.jsdelivr.com/issues/60) in [jsdelivr/data.jsdelivr.com](https://github.com/jsdelivr/data.jsdelivr.com)
+2. 🗣 Commented on [#884](https://github.com/fontsource/fontsource/issues/884#issuecomment-1785055940) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#883](https://github.com/fontsource/fontsource/issues/883#issuecomment-1771569889) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#882](https://github.com/fontsource/fontsource/pull/882) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#881](https://github.com/fontsource/fontsource/pull/881) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
