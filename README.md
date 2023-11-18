@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#885](https://github.com/fontsource/fontsource/issues/885) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🎉 Merged PR [#888](https://github.com/fontsource/fontsource/pull/888) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 💪 Opened PR [#888](https://github.com/fontsource/fontsource/pull/888) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#887](https://github.com/fontsource/fontsource/pull/887) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#886](https://github.com/fontsource/fontsource/pull/886) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. ❗ Opened issue [#1](https://github.com/medama-io/go-useragent/issues/1) in [medama-io/go-useragent](https://github.com/medama-io/go-useragent)
+2. 🔒 Closed issue [#885](https://github.com/fontsource/fontsource/issues/885) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🎉 Merged PR [#888](https://github.com/fontsource/fontsource/pull/888) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 💪 Opened PR [#888](https://github.com/fontsource/fontsource/pull/888) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#887](https://github.com/fontsource/fontsource/pull/887) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
