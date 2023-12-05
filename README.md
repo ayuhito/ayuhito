@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#132](https://github.com/fontsource/google-font-metadata/issues/132#issuecomment-1840369866) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. ❗ Opened issue [#1](https://github.com/medama-io/go-useragent/issues/1) in [medama-io/go-useragent](https://github.com/medama-io/go-useragent)
-3. 🔒 Closed issue [#885](https://github.com/fontsource/fontsource/issues/885) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#888](https://github.com/fontsource/fontsource/pull/888) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#888](https://github.com/fontsource/fontsource/pull/888) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#133](https://github.com/fontsource/google-font-metadata/pull/133) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+2. 🗣 Commented on [#132](https://github.com/fontsource/google-font-metadata/issues/132#issuecomment-1840369866) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. ❗ Opened issue [#1](https://github.com/medama-io/go-useragent/issues/1) in [medama-io/go-useragent](https://github.com/medama-io/go-useragent)
+4. 🔒 Closed issue [#885](https://github.com/fontsource/fontsource/issues/885) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#888](https://github.com/fontsource/fontsource/pull/888) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
