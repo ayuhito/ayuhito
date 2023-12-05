@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#896](https://github.com/fontsource/fontsource/pull/896) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#132](https://github.com/fontsource/google-font-metadata/issues/132#issuecomment-1840484527) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-3. 🚀 Published release [v5.2.1](https://github.com/fontsource/google-font-metadata/releases/tag/v5.2.1) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. 🔒 Closed issue [#132](https://github.com/fontsource/google-font-metadata/issues/132) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. 🎉 Merged PR [#133](https://github.com/fontsource/google-font-metadata/pull/133) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+1. 🎉 Merged PR [#896](https://github.com/fontsource/fontsource/pull/896) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#896](https://github.com/fontsource/fontsource/pull/896) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#132](https://github.com/fontsource/google-font-metadata/issues/132#issuecomment-1840484527) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+4. 🚀 Published release [v5.2.1](https://github.com/fontsource/google-font-metadata/releases/tag/v5.2.1) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. 🔒 Closed issue [#132](https://github.com/fontsource/google-font-metadata/issues/132) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
