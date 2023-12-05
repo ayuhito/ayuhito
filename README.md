@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#132](https://github.com/fontsource/google-font-metadata/issues/132) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-2. 🎉 Merged PR [#133](https://github.com/fontsource/google-font-metadata/pull/133) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-3. 💪 Opened PR [#133](https://github.com/fontsource/google-font-metadata/pull/133) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-4. 🗣 Commented on [#132](https://github.com/fontsource/google-font-metadata/issues/132#issuecomment-1840369866) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
-5. ❗ Opened issue [#1](https://github.com/medama-io/go-useragent/issues/1) in [medama-io/go-useragent](https://github.com/medama-io/go-useragent)
+1. 💪 Opened PR [#896](https://github.com/fontsource/fontsource/pull/896) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🗣 Commented on [#132](https://github.com/fontsource/google-font-metadata/issues/132#issuecomment-1840484527) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+3. 🚀 Published release [v5.2.1](https://github.com/fontsource/google-font-metadata/releases/tag/v5.2.1) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+4. 🔒 Closed issue [#132](https://github.com/fontsource/google-font-metadata/issues/132) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
+5. 🎉 Merged PR [#133](https://github.com/fontsource/google-font-metadata/pull/133) in [fontsource/google-font-metadata](https://github.com/fontsource/google-font-metadata)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
