@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#912](https://github.com/fontsource/fontsource/pull/912) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🔒 Closed issue [#884](https://github.com/fontsource/fontsource/issues/884) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🔒 Closed issue [#748](https://github.com/fontsource/fontsource/issues/748) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#748](https://github.com/fontsource/fontsource/issues/748#issuecomment-1849610874) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🔒 Closed issue [#793](https://github.com/fontsource/fontsource/issues/793) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#913](https://github.com/fontsource/fontsource/pull/913) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 💪 Opened PR [#913](https://github.com/fontsource/fontsource/pull/913) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#912](https://github.com/fontsource/fontsource/pull/912) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🔒 Closed issue [#884](https://github.com/fontsource/fontsource/issues/884) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🔒 Closed issue [#748](https://github.com/fontsource/fontsource/issues/748) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
