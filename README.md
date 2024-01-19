@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#12](https://github.com/fontsource/download-stat-aggregator/pull/12) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
-2. ❌ Closed PR [#10](https://github.com/fontsource/download-stat-aggregator/pull/10) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
-3. ❌ Closed PR [#7](https://github.com/fontsource/download-stat-aggregator/pull/7) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
-4. 🎉 Merged PR [#59](https://github.com/fontsource/font-files/pull/59) in [fontsource/font-files](https://github.com/fontsource/font-files)
-5. 💪 Opened PR [#59](https://github.com/fontsource/font-files/pull/59) in [fontsource/font-files](https://github.com/fontsource/font-files)
+1. 🗣 Commented on [#730](https://github.com/fontsource/fontsource/issues/730#issuecomment-1899911947) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. ❌ Closed PR [#12](https://github.com/fontsource/download-stat-aggregator/pull/12) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+3. ❌ Closed PR [#10](https://github.com/fontsource/download-stat-aggregator/pull/10) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+4. ❌ Closed PR [#7](https://github.com/fontsource/download-stat-aggregator/pull/7) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+5. 🎉 Merged PR [#59](https://github.com/fontsource/font-files/pull/59) in [fontsource/font-files](https://github.com/fontsource/font-files)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
