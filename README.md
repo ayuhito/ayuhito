@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#934](https://github.com/fontsource/fontsource/pull/934) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🗣 Commented on [#773](https://github.com/fontsource/fontsource/issues/773#issuecomment-1913588389) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#3852](https://github.com/moment/moment/issues/3852#issuecomment-1909235276) in [moment/moment](https://github.com/moment/moment)
-4. 🗣 Commented on [#730](https://github.com/fontsource/fontsource/issues/730#issuecomment-1899947746) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🗣 Commented on [#730](https://github.com/fontsource/fontsource/issues/730#issuecomment-1899911947) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🎉 Merged PR [#14](https://github.com/fontsource/download-stat-aggregator/pull/14) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+2. 💪 Opened PR [#14](https://github.com/fontsource/download-stat-aggregator/pull/14) in [fontsource/download-stat-aggregator](https://github.com/fontsource/download-stat-aggregator)
+3. 💪 Opened PR [#934](https://github.com/fontsource/fontsource/pull/934) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🗣 Commented on [#773](https://github.com/fontsource/fontsource/issues/773#issuecomment-1913588389) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#3852](https://github.com/moment/moment/issues/3852#issuecomment-1909235276) in [moment/moment](https://github.com/moment/moment)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
