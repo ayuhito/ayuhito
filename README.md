@@ -5,10 +5,7 @@
 ### 🗄 Featured Open Source Projects
 
 - [Fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
-- [Google Font Metadata](https://github.com/fontsource/google-font-metadata) - A metadata generator that fetches and parses the Google Fonts API.
 - [Medama](https://github.com/medama-io/medama) - Self-hostable privacy focused website analytics.
-- [go-useragent](https://github.com/medama-io/go-useragent) - Fast trie-based useragent parser in Go.
-- [go-timezone-country](https://github.com/medama-io/go-timezone-country) - Convert IANA timezones into countries in Go. 
 
 ### ⚡ Recent Activity
 
