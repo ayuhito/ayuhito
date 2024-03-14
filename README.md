@@ -11,11 +11,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#948](https://github.com/fontsource/fontsource/issues/948#issuecomment-1997286102) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 🔒 Closed issue [#947](https://github.com/fontsource/fontsource/issues/947) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#947](https://github.com/fontsource/fontsource/issues/947#issuecomment-1979862209) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗ Opened issue [#5](https://github.com/medama-io/medama/issues/5) in [medama-io/medama](https://github.com/medama-io/medama)
-5. ❗ Opened issue [#4](https://github.com/medama-io/medama/issues/4) in [medama-io/medama](https://github.com/medama-io/medama)
+1. 🗣 Commented on [#948](https://github.com/fontsource/fontsource/issues/948#issuecomment-1997641909) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🔒 Closed issue [#948](https://github.com/fontsource/fontsource/issues/948) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 🗣 Commented on [#948](https://github.com/fontsource/fontsource/issues/948#issuecomment-1997286102) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🔒 Closed issue [#947](https://github.com/fontsource/fontsource/issues/947) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#947](https://github.com/fontsource/fontsource/issues/947#issuecomment-1979862209) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ### 📫 Contact
